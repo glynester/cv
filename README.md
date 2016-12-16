@@ -1,0 +1,92 @@
+<h1>Glenn Bemont</h1>
+
+<div id="TOC"><h4>
+   <a href="#skills">Skills | </a>
+   <a href="#Development-Projects">Development Projects | </a>
+   <a href="#Work Experience">Work Experience | </a>
+   <a href="#Education">Education | </a>
+   <a href="#Interests">Interests</a></h4>
+</div>
+
+I'm looking for an inspiring Developer role (full stack) where I can continue to learn new things every day, in an organisation that loves developing great software and invests in its employees.
+
+<div id="skills"><h2><a href="#TOC">Skills</a></h2></div>
+In the business consultant/analyst roles I have had during the latter half of my career, I have often acted as a translator between the needs of software users and the development teams.
+These years of experience have honed my problem solving skills and I know I will enjoy and do well in a developer role solving problems on the 'other side of the fence'.<br>
+I love to solve problems (I consider myself to be very good at it) and I enjoy learning new things and getting to grips with new technologies. I get a huge amount of satisfaction from getting computer programs to do my bidding.<br>
+Fom prior roles, I have developed a great eye for well designed software from a user's persepective and have now added strong backend coding and database design to my list of skills.<br> 
+
+<h3>Additional Skills</h3>
+<ul>
+<li>Learn new processes and software quickly</li>
+<li>Very strong programming/logical and numerical abilities</li>
+<li>Full project lifecycle experience</li>
+<li>Strongly computer literate with an excellent working knowledge of a wide variety of application programs, (strong skills in Excel and MS Access) and Enterprise Information Systems</li>
+<li>Strong software and user interface design knowledge</li>
+<li>Strong financial/accounting knowledge</li>
+<li>Self motivated, conscientious and responsible</li>
+<li>Strong communicator with excellent written skills</li>
+<li>Confident and effective in relating to people</li>
+<li>Organised and methodical</li>
+<li>Personable and professional in manner and presentation</li>
+</ul>
+
+<div id="Development-Projects"><h2><a href="#TOC">Development Projects</a></h2></div>
+<strong>Individual Projects</strong>
+<ul>
+<li>Instagram-clone - Ruby on Rails</li>
+<li>Bowling scorecard - Javascript</li>
+</ul>
+<strong>Group Projects</strong><br>
+
+| Project        | Technologies        | Team Size   | Time Taken   |
+| -------------- | ------------------- | :---------: | :----------: |
+| I'm in         | Javascript (Meteor) | 6           | 2 weeks      |
+| Unchained Blog | Python (Django)     | 6           | 1 week       |
+| Makersbnb      | Ruby (Sinatra)      | 4           | 1 week       |
+
+Prior to training at Makers Academy, I also created an app using php and mysql.
+
+<div id="Work Experience"><h2><a href="#TOC">Work Experience</a></h2></div>
+<b>AccessPay - Consultancy Division</b> (April 2014 - May 2015), UK<br>
+Project Management and Implementation - Payments solutions software<br>
+Managed implementations of bespoke cloud-based payment and cash management solution projects (mainly BACS and SWIFT) working with a technical team based in India.<br> 
+
+<b>Demica Ltd - Consultancy Division</b> (January 2007 – March 2013), UK<br>
+Implementation Consultant - Invoice backed finance software<br>
+Managed securitisation projects and was part of a team for some very large and complex multinational securitisations each with funding amounts between €250m and €500m.<br>
+
+<b>2006 </b> Gap year of travel.
+
+<b>AMT-Sybex - Consultancy Division</b> (Nov 1999 – Dec 2005), UK,<br>
+Implementation Consultant - MIMS (Ellipse)<br>
+Multiple positions encompassing the whole project lifecycle within very large asset maintenance projects.<br> 
+
+<b>1993 to 1999 </b> Accountancy, internal audit and external audit roles.
+
+<div id="Education"><h2><a href="#TOC">Education</a></h2></div>
+Only education relevant to development has been included.
+
+<strong>Makers Academy (June 2016 to September 2016)</strong>
+
+A 16-week intensive development bootcamp, emphasizing:
+pair-programming, test driven development, object oriented design, agile methodologies.  
+
+<ul>
+<li>OOP, TDD, SOLID, MVC</li>
+<li>Software Craftsmanship</li>
+<li>Frameworks: Ruby (Sinatra, Ruby on Rails), Javascript (Meteor), Python (Django)</li>
+<li>Testing Software: Rspec, Jasmine, Capybara, Chimp, Mocha/Chai</li>
+<li>Databases: Postgresql, Mongo DB</li>
+<li>Software version control: github</li>
+<li>Other:Jquery, node.js, css, bootstrap</li>
+</ul>
+
+<strong>Bachelor of Commerce (Accounting) University of Natal - Pietermaritzburg</strong><br>
+3½ years accountancy articles - KPMG Zimbabwe<br>
+Institute of Chartered Accountants of Zimbabwe (ICAZ) board exam – part A
+ 
+
+<div id="Interests"><h2><a href="#TOC">Interests</a></h2></div>
+Travel, photography, programming, learning languages, playing the guitar and the usual list of reading, film, theatre, music, etc.<br>
+Sports mainly tennis (I play league) but also most other sports such as squash, badminton, table tennis, cricket, football, swimming, etc.<br>
