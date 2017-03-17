@@ -14,7 +14,7 @@ I'm looking for an inspiring Developer role (full stack) where I can continue to
 In the business consultant/analyst roles I have had during the latter half of my career, I have often acted as a translator between the needs of software users and the development teams.
 These years of experience have honed my problem solving skills and I know I will enjoy and do well in a developer role solving problems on the 'other side of the fence'.<br>
 I love to solve problems (I consider myself to be very good at it) and I enjoy learning new things and getting to grips with new technologies. I get a huge amount of satisfaction from getting computer programs to do my bidding.<br>
-Fom prior roles, I have developed a great eye for well designed software from a user's persepective and have now added strong backend coding and database design to my list of skills.<br> 
+From prior roles, I have developed a great eye for well designed software from a user's persepective and have now added strong backend coding and database design to my list of skills.<br> 
 
 <h3>Additional Skills</h3>
 <ul>
