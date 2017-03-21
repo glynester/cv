@@ -45,7 +45,7 @@ From prior roles, I have developed a great eye for well designed software from a
 | Unchained Blog | Python (Django)     | 6           | 1 week       |
 | Makersbnb      | Ruby (Sinatra)      | 4           | 1 week       |
 
-Prior to training at Makers Academy, I also created an app using php and mysql.
+Prior to training at Makers Academy, I also created an app using php, javascript and mysql.
 
 <div id="Work Experience"><h2><a href="#TOC">Work Experience</a></h2></div>
 <b>AccessPay - Consultancy Division</b> (April 2014 - May 2015), UK<br>
@@ -63,6 +63,8 @@ Implementation Consultant - MIMS (Ellipse)<br>
 Multiple positions encompassing the whole project lifecycle within very large asset maintenance projects.<br> 
 
 <b>1993 to 1999 </b> Accountancy, internal audit and external audit roles.
+
+I have a more detailed CV that covers the above roles.
 
 <div id="Education"><h2><a href="#TOC">Education</a></h2></div>
 Only education relevant to development has been included.
