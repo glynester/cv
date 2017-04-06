@@ -77,7 +77,7 @@ pair-programming, test driven development, object oriented design, agile methodo
 <ul>
 <li>OOP, TDD, SOLID, MVC</li>
 <li>Software Craftsmanship</li>
-<li>Frameworks: Ruby (Sinatra, Ruby on Rails), Javascript (Meteor), Python (Django)</li>
+<li>Frameworks: Ruby (Sinatra, Ruby on Rails), Javascript (Meteor, Express), Python (Django)</li>
 <li>Testing Software: Rspec, Jasmine, Capybara, Chimp, Mocha/Chai</li>
 <li>Databases: Postgresql, Mongo DB</li>
 <li>Software version control: github</li>
