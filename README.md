@@ -83,7 +83,7 @@ pair-programming, test driven development, object oriented design, agile methodo
 <li>Testing Software: Rspec, Jasmine, Capybara, Chimp, Mocha/Chai</li>
 <li>Databases: Postgresql, Mongo DB</li>
 <li>Software version control: github</li>
-<li>Other:Jquery, node.js, css, bootstrap, regex</li>
+<li>Other: Jquery, node.js, css, bootstrap, regex</li>
 </ul>
 
 <strong>Bachelor of Commerce (Accounting) University of Natal - Pietermaritzburg</strong><br>
