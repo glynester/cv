@@ -86,6 +86,8 @@ pair-programming, test driven development, object oriented design, agile methodo
 <li>Other: Jquery, node.js, css, bootstrap, regex</li>
 </ul>
 
+Adobe Photoshop® CS5 Associate Certification
+
 <strong>Bachelor of Commerce (Accounting) University of Natal - Pietermaritzburg</strong><br>
 3½ years accountancy articles - KPMG Zimbabwe<br>
 Institute of Chartered Accountants of Zimbabwe (ICAZ) board exam – part A
