@@ -32,11 +32,7 @@ From prior roles, I have developed a great eye for well designed software from a
 </ul>
 
 <div id="Development-Projects"><h2><a href="#TOC">Development Projects</a></h2></div>
-<strong>Individual Projects</strong>
-<ul>
-<li>Instagram-clone - Ruby on Rails</li>
-<li>Bowling scorecard - Javascript</li>
-</ul>
+
 <strong>Group Projects</strong><br>
 
 | Project        | Technologies        | Team Size   | Time Taken   |
@@ -44,6 +40,12 @@ From prior roles, I have developed a great eye for well designed software from a
 | I'm in         | Javascript (Meteor) | 6           | 2 weeks      |
 | Unchained Blog | Python (Django)     | 6           | 1 week       |
 | Makersbnb      | Ruby (Sinatra)      | 4           | 1 week       |
+
+<strong>Individual Projects</strong>
+<ul>
+<li>Instagram-clone - Ruby on Rails</li>
+<li>Bowling scorecard - Javascript</li>
+</ul>
 
 Prior to training at Makers Academy, I also created an app using php, javascript and mysql.
 
