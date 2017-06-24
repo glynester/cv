@@ -95,5 +95,5 @@ Institute of Chartered Accountants of Zimbabwe (ICAZ) board exam – part A
  
 
 <div id="Interests"><h2><a href="#TOC">Interests</a></h2></div>
-Travel, photography, programming, learning languages, playing the guitar and the usual list of reading, film, theatre, music, etc.<br>
+Travel, photography, programming and web development, learning languages, playing the guitar and the usual list of reading, film, theatre, music, etc.<br>
 Sports mainly tennis (I play league) but also most other sports such as squash, badminton, table tennis, cricket, football, swimming, etc.<br>
