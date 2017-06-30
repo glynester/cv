@@ -54,6 +54,7 @@ Prior to training at Makers Academy, I also created an app using php, javascript
 <ul>
 <li>https://github.com/glynester - My github repository containing all the code mentioned above.</li>
 <li>http://test.glynester.co.uk/login_demo/Index.php - a fully functional demonstration login system - written using PHP and javascript with a mySQL database and incorporating Google's reCAPTCHA validation.</li>
+<li>http://test.glynester.co.uk/index.php - a fully functional expense sharing app - written using PHP, javascript, jquery, ajax with a mySQL database. Use a login ID of any number between 1 and 10 to gain access.</li>
 </ul>
 
 <div id="Work Experience"><h2><a href="#TOC">Work Experience</a></h2></div>
