@@ -51,10 +51,10 @@ From prior roles, I have developed a great eye for well designed software from a
 Prior to training at Makers Academy, I also created an app using php, javascript and mysql.
 
 <div id="Demo Sites"><h2><a href="#TOC">Demo Sites</a></h2></div>
-https://github.com/glynester  
-github repository  
-test.glynester.co.uk/login_demo/Index.php  
-Login system - written using PHP and javascript and incorporating Google's reCAPTCHA validation.
+<ul>
+<li>https://github.com/glynester - My github repository </li>
+<li>test.glynester.co.uk/login_demo/Index.php - Login system - written using PHP and javascript with a mySQL database and incorporating Google's reCAPTCHA validation.</li>
+</ul>
 
 <div id="Work Experience"><h2><a href="#TOC">Work Experience</a></h2></div>
 <b>AccessPay - Consultancy Division</b> (April 2014 - May 2015), UK<br>
