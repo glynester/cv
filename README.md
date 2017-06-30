@@ -52,8 +52,8 @@ Prior to training at Makers Academy, I also created an app using php, javascript
 
 <div id="Demo Sites"><h2><a href="#TOC">Demo Sites</a></h2></div>
 <ul>
-<li>https://github.com/glynester - My github repository </li>
-<li>test.glynester.co.uk/login_demo/Index.php - Login system - written using PHP and javascript with a mySQL database and incorporating Google's reCAPTCHA validation.</li>
+<li>https://github.com/glynester - My github repository containing all the code mentioned above.</li>
+<li>http://test.glynester.co.uk/login_demo/Index.php - Login system - written using PHP and javascript with a mySQL database and incorporating Google's reCAPTCHA validation.</li>
 </ul>
 
 <div id="Work Experience"><h2><a href="#TOC">Work Experience</a></h2></div>
