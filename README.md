@@ -52,6 +52,7 @@ Prior to training at Makers Academy, I also created an app using php, javascript
 
 <div id="Demo-Sites"><h2><a href="#TOC">Demo Sites</a></h2></div>
 <ul>
+<li>[Glenn Bemont - Github Account](https://github.com/glynester){:target="_blank"} - My github repository containing all the code mentioned above.</li>
 <li><a href = "https://github.com/glynester" target="_blank">Glenn Bemont - Github Account</a> - My github repository containing all the code mentioned above.</li>
 <li><a href = "http://test.glynester.co.uk/login_demo/Index.php" target="_blank">Login Demo System</a> - a fully functional demonstration login system - written using PHP and javascript with a mySQL database and incorporating Google's reCAPTCHA validation.</li>
 <li><a href = "http://test.glynester.co.uk/index.php" target="_blank">Expense Sharing App</a> - a fully functional expense sharing app - written using PHP, javascript, jquery, ajax with a mySQL database. Use a login ID of any number between 1 and 7 to gain access. More information is available in the help section of the website.</li>
