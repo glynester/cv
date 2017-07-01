@@ -55,7 +55,7 @@ Prior to training at Makers Academy, I also created an app using php, javascript
 <li><a target="_blank" href = "https://github.com/glynester">Glenn Bemont - Github Account</a> - My github repository containing all the code mentioned above.</li>
 <li><a href = "http://test.glynester.co.uk/login_demo/Index.php" target="_blank">Login Demo System</a> - a fully functional demonstration login system - written using PHP and javascript with a mySQL database and incorporating Google's reCAPTCHA validation.</li>
 <li><a href = "http://test.glynester.co.uk/index.php" target="_blank">Expense Sharing App</a> - a fully functional expense sharing app - written using PHP, javascript, jquery, ajax with a mySQL database. Use a login ID of any number between 1 and 7 to gain access. More information is available in the help section of the website.</li>
-<li><a href = "http://test.glynester.co.uk/data_collection_demo/Data_Collection_Form.php" target="_blank">Data Collection Form</a> - A configurable data collection form showing the configuration controller, the data collection form and the data collected on the same page.</li>
+<li><a href = "http://test.glynester.co.uk/data_collection_demo/Data_Collection_Form.php" target="_blank">Data Collection Form</a> - A configurable data collection form showing the configuration controller, the data collection form, and the data collected from the last input, all on the same page.</li>
 </ul>
 
 <div id="Work Experience"><h2><a href="#TOC">Work Experience</a></h2></div>
