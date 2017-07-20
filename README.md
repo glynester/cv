@@ -80,7 +80,7 @@ I have a more detailed CV that covers the above roles.
 <div id="Education"><h2><a href="#TOC">Education</a></h2></div>
 Only education relevant to development has been included.
 
-<strong>Makers Academy (June 2016 to September 2016)</strong>
+<strong>Makers Academy (August/September 2016 to December 2016)</strong>
 
 A 16-week intensive development bootcamp, emphasizing:
 pair-programming, test driven development, object oriented design, agile methodologies.  
