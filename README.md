@@ -35,7 +35,6 @@ From prior roles, I have developed a great eye for well designed software from a
 <div id="Development-Projects"><h2><a href="#TOC">Development Projects</a></h2></div>
 
 <strong>Group Projects</strong><br>
-
 | Project        | Technologies        | Team Size   | Time Taken   |
 | -------------- | ------------------- | :---------: | :----------: |
 | I'm in         | Javascript (Meteor) | 6           | 2 weeks      |
@@ -43,10 +42,11 @@ From prior roles, I have developed a great eye for well designed software from a
 | Makersbnb      | Ruby (Sinatra)      | 4           | 1 week       |
 
 <strong>Individual Projects</strong>
-<ul>
-<li>Instagram-clone - Ruby on Rails</li>
-<li>Bowling scorecard - Javascript</li>
-</ul>
+| Project           | Technologies        | 
+| ----------------- | ------------------- | 
+| Instagram-clone   | Ruby on Rails       | 
+| Bowling scorecard | Javascript          | 
+
 
 Prior to training at Makers Academy, I also created a number of web applications using php, javascript and mysql - e.g. see "Expense Sharing App" below.  
 
