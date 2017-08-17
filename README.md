@@ -40,14 +40,14 @@ From prior roles, I have developed a great eye for well designed software from a
 | :--------------:                         | :-------------------: | :---------: | :----------: | :--------------: | 
 |<a target="_blank" href = "">I'm in</a>                       | Javascript (Meteor) | 6 | 2 weeks|  Link o/s!!!! |
 |<a target="_blank" href = "https://github.com/glynester/unchained_blog">Unchained Blog</a>  | Python (Django)     | 6 | 1 week | goo.gl/zbkZm3 |
-|<a target="_blank" href = "goo.gl/HMKKcY">Makersbnb</a>       | Ruby (Sinatra)      | 4 | 1 week | goo.gl/HMKKcY |                |
+|<a target="_blank" href = "https://github.com/glynester/makersbnb">Makersbnb</a>       | Ruby (Sinatra)      | 4 | 1 week | goo.gl/HMKKcY |
 
 <strong>Individual Projects</strong>
 
 | Project             | Technologies          |  Link            |
 | :-----------------: | :-------------------: | :--------------: | 
-| <a target="_blank" href = "goo.gl/HGuiKT">Instagram-clone</a>  | Ruby on Rails | goo.gl/HGuiKT |
-| <a target="_blank" href = "goo.gl/1eg4LQ">Bowling scorecard</a>| Javascript    | goo.gl/1eg4LQ |
+| <a target="_blank" href = "https://github.com/glynester/instagram-challenge">Instagram-clone</a>  | Ruby on Rails | goo.gl/HGuiKT |
+| <a target="_blank" href = "https://github.com/glynester/bowling-challenge">Bowling scorecard</a>| Javascript    | goo.gl/1eg4LQ |
 
 Prior to training at Makers Academy, I also created a number of web applications using php, javascript and mysql - e.g. see "Expense Sharing App" below.  
 
