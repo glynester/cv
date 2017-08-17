@@ -41,6 +41,7 @@ From prior roles, I have developed a great eye for well designed software from a
 | I'm in           | Javascript (Meteor)   | 6           | 2 weeks      |                  |
 | Unchained Blog   | Python (Django)       | 6           | 1 week       | goo.gl/zbkZm3    |
 | Makersbnb        | Ruby (Sinatra)        | 4           | 1 week       | goo.gl/HMKKcY    |
+|<li><a target="_blank" href = "http://bit.ly/2vHD7s6">Glenn Bemont - Github Account</a>        |                       |             |              |                  |
 
 <strong>Individual Projects</strong>
 
