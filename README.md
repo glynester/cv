@@ -36,18 +36,18 @@ From prior roles, I have developed a great eye for well designed software from a
 
 <strong>Group Projects</strong><br>
 
-| Project        | Technologies        | Team Size   | Time Taken   |
-| -------------- | ------------------- | :---------: | :----------: |
-| I'm in         | Javascript (Meteor) | 6           | 2 weeks      |
-| Unchained Blog | Python (Django)     | 6           | 1 week       |
-| Makersbnb      | Ruby (Sinatra)      | 4           | 1 week       |
+| Project          | Technologies          | Team Size   | Time Taken   | Link             |
+| :--------------: | :-------------------: | :---------: | :----------: | :--------------: | 
+| I'm in           | Javascript (Meteor)   | 6           | 2 weeks      |                  |
+| Unchained Blog   | Python (Django)       | 6           | 1 week       | goo.gl/zbkZm3    |
+| Makersbnb        | Ruby (Sinatra)        | 4           | 1 week       |                  |
 
 <strong>Individual Projects</strong>
 
-| Project           | Technologies        | 
-| ----------------- | ------------------- | 
-| Instagram-clone   | Ruby on Rails       | 
-| Bowling scorecard | Javascript          | 
+| Project             | Technologies          |  Link            |
+| :-----------------: | :-------------------: | :--------------: | 
+| Instagram-clone     | Ruby on Rails         | goo.gl/HGuiKT    |
+| Bowling scorecard   | Javascript            |                  |
 
 
 Prior to training at Makers Academy, I also created a number of web applications using php, javascript and mysql - e.g. see "Expense Sharing App" below.  
