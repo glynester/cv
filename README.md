@@ -48,7 +48,7 @@ From prior roles, I have developed a great eye for well designed software from a
 <li>Bowling scorecard - Javascript</li>
 </ul>
 
-Prior to training at Makers Academy, I also created an app using php, javascript and mysql.
+Prior to training at Makers Academy, I also created a number of web applications using php, javascript and mysql - e.g. see "Expense Sharing App" below.  
 
 <div id="Demo-Sites"><h2><a href="#TOC">Demo Sites</a></h2></div>
 <ul>
