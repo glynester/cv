@@ -36,21 +36,18 @@ From prior roles, I have developed a great eye for well designed software from a
 
 <strong>Group Projects</strong><br>
 
-| Project          | Technologies          | Team Size   | Time Taken   | Link             |
-| :--------------: | :-------------------: | :---------: | :----------: | :--------------: | 
-|<li><a target="_blank" href = "">I'm in</a>        | Javascript (Meteor)   |    6         |       2 weeks        | 
-| I'm in           | Javascript (Meteor)   | 6           | 2 weeks      |                  |
-| Unchained Blog   | Python (Django)       | 6           | 1 week       | goo.gl/zbkZm3    |
-| Makersbnb        | Ruby (Sinatra)        | 4           | 1 week       | goo.gl/HMKKcY    |                |
+| Project                                  | Technologies          | Team Size   | Time Taken   | Link             |
+| :--------------:                         | :-------------------: | :---------: | :----------: | :--------------: | 
+|<a target="_blank" href = "">I'm in</a>                       | Javascript (Meteor) | 6 | 2 weeks|  Link o/s!!!! |
+|<a target="_blank" href = "goo.gl/zbkZm3">Unchained Blog</a>  | Python (Django)     | 6 | 1 week | goo.gl/zbkZm3 |
+|<a target="_blank" href = "goo.gl/HMKKcY">Makersbnb</a>       | Ruby (Sinatra)      | 4 | 1 week | goo.gl/HMKKcY |                |
 
 <strong>Individual Projects</strong>
 
 | Project             | Technologies          |  Link            |
 | :-----------------: | :-------------------: | :--------------: | 
-| Instagram-clone     | Ruby on Rails         | goo.gl/HGuiKT    |
-| Bowling scorecard   | Javascript            | goo.gl/1eg4LQ    |
-    |
-
+| <a target="_blank" href = "goo.gl/HGuiKT">Instagram-clone</a>  | Ruby on Rails | goo.gl/HGuiKT |
+| <a target="_blank" href = "goo.gl/1eg4LQ">Bowling scorecard</a>| Javascript    | goo.gl/1eg4LQ |
 
 Prior to training at Makers Academy, I also created a number of web applications using php, javascript and mysql - e.g. see "Expense Sharing App" below.  
 
