@@ -35,6 +35,7 @@ From prior roles, I have developed a great eye for well designed software from a
 <div id="Development-Projects"><h2><a href="#TOC">Development Projects</a></h2></div>
 
 <strong>Group Projects</strong><br>
+
 | Project        | Technologies        | Team Size   | Time Taken   |
 | -------------- | ------------------- | :---------: | :----------: |
 | I'm in         | Javascript (Meteor) | 6           | 2 weeks      |
@@ -42,6 +43,7 @@ From prior roles, I have developed a great eye for well designed software from a
 | Makersbnb      | Ruby (Sinatra)      | 4           | 1 week       |
 
 <strong>Individual Projects</strong>
+
 | Project           | Technologies        | 
 | ----------------- | ------------------- | 
 | Instagram-clone   | Ruby on Rails       | 
