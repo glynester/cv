@@ -99,7 +99,7 @@ pair-programming, test driven development, object oriented design, agile methodo
 ReactJS  
 Adobe Photoshop® CS5 Associate Certification  
 SASS  
-https://www.codewars.com/users/glynester - level 3 for Ruby and Javascript  
+https://www.codewars.com/users/glynester - level 3 (out of 8 levels - top level is 1) for Ruby and Javascript.   
 
 <strong>Bachelor of Commerce (Accounting) University of Natal - Pietermaritzburg</strong><br>
 3½ years accountancy articles - KPMG Zimbabwe<br>
