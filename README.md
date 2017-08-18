@@ -52,9 +52,11 @@ From prior roles, I have developed a great eye for well designed software from a
 Prior to training at Makers Academy, I also created a number of web applications using php, javascript and mysql - e.g. see "Expense Sharing App" below.  
 
 <div id="Demo-Websites"><h2><a href="#TOC">Demo Sites</a></h2></div>
+
 | Project             | Description          |  Link            |
 | :-----------------: | :-------------------: | :--------------: | 
 |<a target="_blank" href = "https://github.com/glynester">Glenn Bemont - Github Account</a>  | My github repository containing all the code mentioned above. | <a target="_blank" href = "https://github.com/glynester">goo.gl/5ntzXe</a> |
+
 
 <ul>
 <li><a target="_blank" href = "http://bit.ly/2vHD7s6">Glenn Bemont - Github Account</a> -  
