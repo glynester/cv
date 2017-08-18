@@ -3,7 +3,7 @@
 <div id="TOC"><h4>
    <a href="#skills">Skills | </a>
    <a href="#Development-Projects">Development Projects | </a>
-   <a href="#Demo-Sites">Demo Sites | </a>
+   <a href="#Demo-Websites">Demo Sites | </a>
    <a href="#Work Experience">Work Experience | </a>
    <a href="#Education">Education | </a>
    <a href="#Interests">Interests</a></h4>
@@ -34,7 +34,7 @@ From prior roles, I have developed a great eye for well designed software from a
 
 <div id="Development-Projects"><h2><a href="#TOC">Development Projects</a></h2></div>
 
-<strong>Group Projects</strong><br>
+<strong>Group Projects - repositories</strong><br>
 
 | Project                                  | Technologies          | Team Size   | Time Taken   | Link             |
 | :--------------:                         | :-------------------: | :---------: | :----------: | :--------------: | 
@@ -51,7 +51,11 @@ From prior roles, I have developed a great eye for well designed software from a
 
 Prior to training at Makers Academy, I also created a number of web applications using php, javascript and mysql - e.g. see "Expense Sharing App" below.  
 
-<div id="Demo-Sites"><h2><a href="#TOC">Demo Sites</a></h2></div>
+<div id="Demo-Websites"><h2><a href="#TOC">Demo Sites</a></h2></div>
+| Project             | Description          |  Link            |
+| :-----------------: | :-------------------: | :--------------: | 
+|<a target="_blank" href = "https://github.com/glynester">Glenn Bemont - Github Account</a>  | My github repository containing all the code mentioned above. | <a target="_blank" href = "https://github.com/glynester">goo.gl/5ntzXe</a> |
+
 <ul>
 <li><a target="_blank" href = "http://bit.ly/2vHD7s6">Glenn Bemont - Github Account</a> -  
 My github repository containing all the code mentioned above. <sub><sup>(https://github.com/glynester)</sup></sub></li>
