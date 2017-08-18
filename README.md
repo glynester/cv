@@ -38,9 +38,9 @@ I always take great pride in my work and am meticulous in my attention to detail
 
 | Project                                  | Technologies          | Team Size   | Time Taken   | Link             |
 | :--------------:                         | :-------------------: | :---------: | :----------: | :--------------: | 
-|<a target="_blank" href = "">I'm in</a>                       | Javascript (Meteor) | 6 | 2 weeks|  Link o/s!!!! |
-|<a target="_blank" href = "https://github.com/glynester/unchained_blog">Unchained Blog</a>  | Python (Django)     | 6 | 1 week |<a target="_blank" href = "https://github.com/glynester/unchained_blog">goo.gl/zbkZm3</a>  |
-|<a target="_blank" href = "https://github.com/glynester/makersbnb">Makersbnb</a>       | Ruby (Sinatra)      | 4 | 1 week |<a target="_blank" href = "https://github.com/glynester/makersbnb">goo.gl/HMKKcY</a> |
+|<a target="_blank" href = "https://github.com/glynester/project-snowflake">I'm in</a>| Javascript (Meteor) | 6 | 2 weeks|<a target="_blank" href = "https://github.com/glynester/project-snowflake">goo.gl/BVUyPZ</a>|
+|<a target="_blank" href = "https://github.com/glynester/unchained_blog">Unchained Blog</a>  | Python (Django)     | 6 | 1 week |<a target="_blank" href = "https://github.com/glynester/unchained_blog">goo.gl/zbkZm3</a>|
+|<a target="_blank" href = "https://github.com/glynester/makersbnb">Makersbnb</a>| Ruby (Sinatra)      | 4 | 1 week |<a target="_blank" href = "https://github.com/glynester/makersbnb">goo.gl/HMKKcY</a>|
 
 <strong>Individual Projects</strong>
 
