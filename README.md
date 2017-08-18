@@ -5,8 +5,8 @@
    <a href="#Development-Projects">Development Projects | </a>
    <a href="#Work Experience">Work Experience | </a>
    <a href="#Education">Education | </a>
-   <a href="#Interests">Interests</a></h4>
-   <a href="#Demo-Websites">APPENDIX 1 - Demo Sites | </a>
+   <a href="#Interests">Interests</a>
+   <a href="#Demo-Websites">APPENDIX 1 - Demo Sites | </a></h4>
 </div>
 I bring enthusiam, passion and tenacious problem solving skills to the team. I love to learn new things and I am not afraid of hard work.<BR>    
 I'm looking for an inspiring Developer role (full stack) where I can continue to learn new things every day, in a development team creating innovative/world changing applications.  
