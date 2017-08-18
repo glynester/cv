@@ -55,7 +55,7 @@ Prior to training at Makers Academy, I also created a number of web applications
 
 | Project                | Description          |  Link            |
 | :--------------------- | :------------------- | :--------------- | 
-|<a target="_blank" href = "https://github.com/glynester">G Bemont - Github Account</a>| My github repository containing all the code mentioned above. | <a target="_blank" href = "https://github.com/glynester">goo.gl/5ntzXe</a> |
+|<a target="_blank" href = "https://github.com/glynester">G Bemont - Github &nbsp Account</a>| My github repository containing all the code mentioned above. | <a target="_blank" href = "https://github.com/glynester">goo.gl/5ntzXe</a> |
 |<a target="_blank" href = "http://fintimesrfuntimes.herokuapp.com/">FT news headline aggregator</a> | List of FT news headlines with search functionality. Uses FT Developer APIs and Express.js (node js) framework.| <a target="_blank" href = "http://fintimesrfuntimes.herokuapp.com/">goo.gl/Y4SWZ4</a> |
 |<a href = "http://test.glynester.co.uk/login_demo/Index.php" target="_blank">Login Demo System</a>| Fully functional demonstration login system - written using PHP and javascript with a mySQL database and incorporating Google's reCAPTCHA validation.| <a target="_blank" href = "http://test.glynester.co.uk/login_demo/Index.php">goo.gl/3PftP1</a> |
 |<a href = "http://test.glynester.co.uk/index.php" target="_blank">Expense Sharing App</a>| Fully functional expense sharing app - written using PHP, javascript, jquery, ajax with a mySQL database. Use a login ID of any number between 1 and 7 to gain access. More information is available in the help section of the website.| <a target="_blank" href = "http://test.glynester.co.uk/index.php">goo.gl/RgqB9x</a> |
