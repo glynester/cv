@@ -8,14 +8,14 @@
    <a href="#Education">Education | </a>
    <a href="#Interests">Interests</a></h4>
 </div>
-I bring enthusiam, passion and tenacious problem solving skills to the team. I love to learn new things and I am not afraid of hard work.    
+I bring enthusiam, passion and tenacious problem solving skills to the team. I love to learn new things and I am not afraid of hard work.<BR>    
 I'm looking for an inspiring Developer role (full stack) where I can continue to learn new things every day, in a development team creating innovative/world changing applications.  
 
 <div id="skills"><h2><a href="#TOC">Skills</a></h2></div>
-I get a huge amount of satisfaction from getting computer programs to function as I intend them to by writing the code instructions.   
-I love to solve problems (I consider myself to be very good at it) and I love to learn new things and get to grips with new technologies.   
-In the business consultant/analyst roles I had during the latter half of my career, I often acted as a translator between the needs of software users and the development teams. These years of work experience honed my problem solving skills. I can now apply these skills in the role of developer.   
-Over my career, I have also developed a great eye for what makes software well designed from a user's perspective and what makes for a pleasant user experience. I have now also added strong backend coding and database design to my list of skills.  
+I get a huge amount of satisfaction from getting computer programs to function as I intend them to by writing the code instructions.<BR>   
+I love to solve problems (I consider myself to be very good at it) and I love to learn new things and get to grips with new technologies.<BR>   
+In the business consultant/analyst roles I had during the latter half of my career, I often acted as a translator between the needs of software users and the development teams. These years of work experience honed my problem solving skills. I can now apply these skills in the role of developer.<BR>   
+Over my career, I have also developed a great eye for what makes software well designed from a user's perspective and what makes for a pleasant user experience. I have now also added strong backend coding and database design to my list of skills.<BR>  
 I always take great pride in my work and am meticulous in my attention to detail.   
 
 <h3>Additional Skills</h3>
