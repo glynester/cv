@@ -102,7 +102,7 @@ pair-programming, test driven development, object oriented design, agile methodo
 ReactJS  
 Adobe Photoshop® CS5 Associate Certification  
 SASS  
-https://www.codewars.com/users/glynester - level 3 (out of 8 levels - top level is 1) for Ruby and Javascript.   
+https://www.codewars.com/users/glynester - level 3 (out of 8 levels - top level is 1) for Ruby and Javascript. Level 2 overall.  
 
 <strong>Bachelor of Commerce (Accounting) University of Natal - Pietermaritzburg</strong><br>
 3½ years accountancy articles - KPMG Zimbabwe<br>
@@ -110,5 +110,5 @@ Institute of Chartered Accountants of Zimbabwe (ICAZ) board exam – part A
  
 
 <div id="Interests"><h2><a href="#TOC">Interests</a></h2></div>
-Travel, photography, programming and web development, learning languages, playing the guitar and the usual list of reading, film, theatre, music, etc.<br>
+Travel, photography, programming and web development, learning languages, playing the guitar, reading, film, theatre, music, etc.<br>
 Sports mainly tennis (I play league) but also most other sports such as squash, badminton, table tennis, cricket, football, swimming, etc.<br>
