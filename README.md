@@ -57,10 +57,9 @@ Prior to training at Makers Academy, I also created a number of web applications
 | :-----------------: | :-------------------: | :--------------: | 
 |<a target="_blank" href = "https://github.com/glynester">Glenn Bemont - Github Account</a>  | My github repository containing all the code mentioned above. | <a target="_blank" href = "https://github.com/glynester">goo.gl/5ntzXe</a> |
 
-|<a target="_blank" href = "http://fintimesrfuntimes.herokuapp.com/">FT news headline aggregator</a>  | Website showing a list of FT news headlines with search 
-functionality using FT Developer APIs 
-to achieve this. Built using the Express.js (node js) framework with javascript. | <a target="_blank" href = "http://fintimesrfuntimes.herokuapp.com/">goo.gl/Y4SWZ4</a> |
-
+|<a target="_blank" href = "http://fintimesrfuntimes.herokuapp.com/">FT news headline aggregator</a>  | Website showing a list of FT news headlines with search functionality,  | <a target="_blank" href = "http://fintimesrfuntimes.herokuapp.com/">goo.gl/Y4SWZ4</a> |
+|  |  using FT Developer APIs to achieve this. Built |  | 
+|  | using the Express.js (node js) framework with javascript. |  | 
 
 
 <ul>
