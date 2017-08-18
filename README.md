@@ -3,10 +3,10 @@
 <div id="TOC"><h4>
    <a href="#skills">Skills | </a>
    <a href="#Development-Projects">Development Projects | </a>
-   <a href="#Demo-Websites">Demo Sites | </a>
    <a href="#Work Experience">Work Experience | </a>
    <a href="#Education">Education | </a>
    <a href="#Interests">Interests</a></h4>
+   <a href="#Demo-Websites">APPENDIX 1 - Demo Sites | </a>
 </div>
 I bring enthusiam, passion and tenacious problem solving skills to the team. I love to learn new things and I am not afraid of hard work.<BR>    
 I'm looking for an inspiring Developer role (full stack) where I can continue to learn new things every day, in a development team creating innovative/world changing applications.  
@@ -50,18 +50,6 @@ I always take great pride in my work and am meticulous in my attention to detail
 | <a target="_blank" href = "https://github.com/glynester/bowling-challenge">Bowling scorecard</a>| Javascript    | <a target="_blank" href = "https://github.com/glynester/bowling-challenge">goo.gl/1eg4LQ</a> |
 
 Prior to training at Makers Academy, I also created a number of web applications using php, javascript and mysql - e.g. see "Expense Sharing App" below.  
-
-<div id="Demo-Websites"><h2><a href="#TOC">Demo Sites</a></h2></div>
-
-| Project                | Description          |  Link            |
-| :--- | :------------------- | :--------------- | 
-|<a target="_blank" href = "https://github.com/glynester">G Bemont Github Account</a>| My github repository containing all the code mentioned above. | <a target="_blank" href = "https://github.com/glynester">goo.gl/5ntzXe</a> |
-|<a target="_blank" href = "http://fintimesrfuntimes.herokuapp.com/">FT news headline aggregator</a> | List of FT news headlines with search functionality. Uses FT Developer APIs and Express.js (node js) framework.| <a target="_blank" href = "http://fintimesrfuntimes.herokuapp.com/">goo.gl/Y4SWZ4</a> |
-|<a href = "http://test.glynester.co.uk/thermostat/" target="_blank">Demo thermostat control</a>| Demo thermostat control - written using object oriented javascript with a Jasmine test suite (append "SpecRunner.html" to address to run tests).| <a target="_blank" href = "http://test.glynester.co.uk/thermostat/">goo.gl/nqEKkP</a> |
-|<a href = "http://test.glynester.co.uk/login_demo/Index.php" target="_blank">Login Demo System</a>| Fully functional login system - written using PHP and javascript with a mySQL database and incorporating Google's reCAPTCHA validation.| <a target="_blank" href = "http://test.glynester.co.uk/login_demo/Index.php">goo.gl/3PftP1</a> |
-|<a href = "http://test.glynester.co.uk/index.php" target="_blank">Expense Sharing App</a>| Fully functional expense sharing app - written using PHP, javascript, jquery, ajax with a mySQL database. Use a login ID of any number between 1 and 7 to gain access. More information is available in the help section of the website.| <a target="_blank" href = "http://test.glynester.co.uk/index.php">goo.gl/RgqB9x</a> |
-|<a href = "http://test.glynester.co.uk/data_collection_demo/Data_Collection_Form.php" target="_blank">Data Collection Form</a>| A configurable data collection form showing the configuration controller, the data collection form, and the data collected from the last input, all on the same page.| <a target="_blank" href = "http://test.glynester.co.uk/data_collection_demo/Data_Collection_Form.php">goo.gl/a3gPgL</a> |
-
 
 <div id="Work Experience"><h2><a href="#TOC">Work Experience</a></h2></div>
 <b>AccessPay - Consultancy Division</b> (April 2014 - May 2015), UK<br>
@@ -113,3 +101,15 @@ Institute of Chartered Accountants of Zimbabwe (ICAZ) board exam – part A
 <div id="Interests"><h2><a href="#TOC">Interests</a></h2></div>
 Travel, photography, programming and web development, learning languages, playing the guitar, reading, film, theatre, music, etc.<br>
 Sports mainly tennis (I play league) but also most other sports such as squash, badminton, table tennis, cricket, football, swimming, etc.<br>
+
+# APPENDIX 1
+<div id="Demo-Websites"><h2><a href="#TOC">Demo Sites</a></h2></div>
+
+| Project                | Description          |  Link            |
+| :--- | :------------------- | :--------------- | 
+|<a target="_blank" href = "https://github.com/glynester">G Bemont Github Account</a>| My github repository containing all the code mentioned above. | <a target="_blank" href = "https://github.com/glynester">goo.gl/5ntzXe</a> |
+|<a target="_blank" href = "http://fintimesrfuntimes.herokuapp.com/">FT news headline aggregator</a> | List of FT news headlines with search functionality. Uses FT Developer APIs and Express.js (node js) framework.| <a target="_blank" href = "http://fintimesrfuntimes.herokuapp.com/">goo.gl/Y4SWZ4</a> |
+|<a href = "http://test.glynester.co.uk/thermostat/" target="_blank">Demo thermostat control</a>| Demo thermostat control - written using object oriented javascript (JQuery) with a slider bar plugin and a Jasmine test suite (append "SpecRunner.html" to address to run tests).| <a target="_blank" href = "http://test.glynester.co.uk/thermostat/">goo.gl/nqEKkP</a> |
+|<a href = "http://test.glynester.co.uk/login_demo/Index.php" target="_blank">Login Demo System</a>| Fully functional login system - written using PHP and javascript with a mySQL database and incorporating Google's reCAPTCHA validation.| <a target="_blank" href = "http://test.glynester.co.uk/login_demo/Index.php">goo.gl/3PftP1</a> |
+|<a href = "http://test.glynester.co.uk/index.php" target="_blank">Expense Sharing App</a>| Fully functional expense sharing app - written using PHP, javascript, jquery, ajax with a mySQL database. Use a login ID of any number between 1 and 7 to gain access. More information is available in the help section of the website.| <a target="_blank" href = "http://test.glynester.co.uk/index.php">goo.gl/RgqB9x</a> |
+|<a href = "http://test.glynester.co.uk/data_collection_demo/Data_Collection_Form.php" target="_blank">Data Collection Form</a>| A configurable data collection form showing the configuration controller, the data collection form, and the data collected from the last input, all on the same page.| <a target="_blank" href = "http://test.glynester.co.uk/data_collection_demo/Data_Collection_Form.php">goo.gl/a3gPgL</a> |
