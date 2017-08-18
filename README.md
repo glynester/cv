@@ -57,12 +57,14 @@ Prior to training at Makers Academy, I also created a number of web applications
 | :-----------------: | :-------------------: | :--------------: | 
 |<a target="_blank" href = "https://github.com/glynester">Glenn Bemont - Github Account</a>  | My github repository containing all the code mentioned above. | <a target="_blank" href = "https://github.com/glynester">goo.gl/5ntzXe</a> |
 
+|<a target="_blank" href = "http://fintimesrfuntimes.herokuapp.com/">FT news headline aggregator</a>  | Website showing a list of FT news headlines with search functionality using FT Developer APIs to achieve this. Built using the Express.js (node js) framework with javascript. | <a target="_blank" href = "http://fintimesrfuntimes.herokuapp.com/">goo.gl/Y4SWZ4</a> |
+
+
 
 <ul>
-<li><a target="_blank" href = "http://bit.ly/2vHD7s6">Glenn Bemont - Github Account</a> -  
-My github repository containing all the code mentioned above. <sub><sup>(https://github.com/glynester)</sup></sub></li>
 <li><a target="_blank" href = "http://fintimesrfuntimes.herokuapp.com/">FT news headline aggregator</a> -  
 Website showing a list of FT news headlines with search functionality using FT Developer APIs to achieve this. Built using the Express.js (node js) framework with javascript.<sub><sup>(http://fintimesrfuntimes.herokuapp.com/)</sup></sub></li>
+
 <li><a href = "http://test.glynester.co.uk/login_demo/Index.php" target="_blank">Login Demo System</a> -  
 a fully functional demonstration login system - written using PHP and javascript with a mySQL database and incorporating Google's reCAPTCHA validation. <sub><sup>(http://test.glynester.co.uk/login_demo/Index.php)</sup></sub></li>
 <li><a href = "http://test.glynester.co.uk/index.php" target="_blank">Expense Sharing App</a> -  
