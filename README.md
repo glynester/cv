@@ -99,6 +99,7 @@ Over 2,100 coding problems solved.
 </ul>
 (out of 8 levels - top level is 1)
 
+
 <strong>Bachelor of Commerce (Accounting) University of Natal - Pietermaritzburg</strong><br>
 3½ years accountancy articles - KPMG Zimbabwe<br>
 Institute of Chartered Accountants of Zimbabwe (ICAZ) board exam – part A
