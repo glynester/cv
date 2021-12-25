@@ -80,7 +80,9 @@ I have a more detailed CV that covers the above roles.
 
 <div id="Education"><h2><a href="#TOC">Education</a></h2></div>
 Only education relevant to development has been included. I have done many courses that I have not listed here.
+
 <strong>Recent</strong>
+
 JavaScript - The Advanced Concepts (2022 Update) - Completed December 2021   
 
 <strong>Makers Academy (August/September 2016 to December 2016)</strong>
