@@ -81,13 +81,12 @@ I have a more detailed CV that covers the above roles.
 <div id="Education"><h2><a href="#TOC">Education</a></h2></div>
 Only education relevant to development has been included. I have done many courses that I have not listed here.
 
-<strong>Recent</strong>
+<strong>Recent</strong><br>
 JavaScript - The Advanced Concepts (2022 Update) - Completed December 2021   
 
-<strong>Makers Academy (August/September 2016 to December 2016)</strong>
+<strong>Makers Academy (August/September 2016 to December 2016)</strong><br>
 A 16-week intensive development bootcamp, emphasizing:
 pair-programming, test driven development, object oriented design, agile methodologies.  
-
 <ul>
 <li>OOP, TDD, SOLID, MVC</li>
 <li>Software Craftsmanship</li>
@@ -103,12 +102,9 @@ Adobe Photoshop® CS5 Associate Certification
 SASS  
 CodeWars Profile - https://www.codewars.com/users/glynester 
 Over 2,300 coding problems solved.
-<ul>
-<li>Javascript - level 2</li>
-<li>Ruby - level 3</li>
-</ul>
+<ul><li>Javascript - level 2</li>
+<li>Ruby - level 3</li></ul>
 (out of 8 levels - top level is 1)
-
 
 <strong>Bachelor of Commerce (Accounting) University of Natal - Pietermaritzburg</strong><br>
 3½ years accountancy articles - KPMG Zimbabwe<br>
