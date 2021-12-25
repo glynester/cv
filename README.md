@@ -102,8 +102,8 @@ Adobe Photoshop® CS5 Associate Certification
 SASS  
 CodeWars Profile - https://www.codewars.com/users/glynester 
 Over 2,300 coding problems solved.
-<ul><li>Javascript - level 2</li>
-<li>Ruby - level 3</li></ul>
+* Javascript - level 2<br>
+* Ruby - level 3<br>
 (out of 8 levels - top level is 1)
 
 <strong>Bachelor of Commerce (Accounting) University of Natal - Pietermaritzburg</strong><br>
