@@ -52,11 +52,13 @@ I always take great pride in my work and am meticulous in my attention to detail
 Prior to training at Makers Academy, I also created a number of web applications using php, javascript and mysql - e.g. see "Expense Sharing App" below.  
 
 <div id="Work Experience"><h2><a href="#TOC">Work Experience</a></h2></div>
-<b>⬇Read this section please!⬇</b><br>
+<b>⬇Read this introduction section please!⬇</b><br>
+<b>Introduction</b><br>
 Although I have a lot of relevant experience and have done a great deal of self learning, I have not specifically worked as a developer/coder in the industry.<br>
 To save us both some time if you respond to my CV, I would ask that you make reference to this fact.<br>
 If you don't specifically mention this, I will assume that you have not read my CV.<br><br> 
-  
+
+<b>Self Employed (May 2015 to present)</b><br>   
    
 <b>AccessPay - Consultancy Division</b> (April 2014 - May 2015), UK<br>
 Project Management and Implementation - Payments solutions software<br>
