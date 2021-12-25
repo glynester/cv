@@ -101,7 +101,7 @@ ReactJS
 Adobe Photoshop® CS5 Associate Certification  
 SASS  
 CodeWars Profile - https://www.codewars.com/users/glynester 
-Over 2,300 coding problems solved.
+Over 2,300 coding problems solved.<br>
 * Javascript - level 2<br>
 * Ruby - level 3<br>
 (out of 8 levels - top level is 1)
