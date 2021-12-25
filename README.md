@@ -55,7 +55,7 @@ Prior to training at Makers Academy, I also created a number of web applications
 <b>⬇Read this introduction section please!⬇</b><br>
 <b>Introduction</b><br>
 Although I have a lot of relevant experience and have done a great deal of self learning, I have not specifically worked as a developer/coder in the industry.<br>
-To save us both some time, when you respond to my CV, I would ask that you make reference to this fact.<br>
+To save us both some time, when you respond to my CV, I would ask that you make <strong>reference</strong> to this fact.<br>
 If you don't specifically mention this, I will assume that you have not read my CV.<br><br> 
 
 <b>Self Employed (May 2015 to present)</b><br>   
@@ -79,7 +79,9 @@ Multiple positions encompassing the whole project lifecycle within very large as
 I have a more detailed CV that covers the above roles.
 
 <div id="Education"><h2><a href="#TOC">Education</a></h2></div>
-Only education relevant to development has been included.
+Only education relevant to development has been included. I have done many courses that I have not listed here.
+<strong>Recent</strong>
+JavaScript - The Advanced Concepts (2022 Update) - Completed December 2021   
 
 <strong>Makers Academy (August/September 2016 to December 2016)</strong>
 
