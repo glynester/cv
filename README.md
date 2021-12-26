@@ -82,7 +82,7 @@ I have a more detailed CV that covers the above roles.
 Only education relevant to development has been included. I have done many courses that I have not listed here.
 
 <strong>Recent</strong><br>
-JavaScript - The Advanced Concepts (2022 Update) - Completed December 2021   
+JavaScript - The Advanced Concepts (2022 Update) - Completed December 2021 - Certificate: https://bit.ly/3sHmivg
 
 <strong>Makers Academy (August/September 2016 to December 2016)</strong><br>
 A 16-week intensive development bootcamp, emphasizing:
