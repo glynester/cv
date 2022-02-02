@@ -2,11 +2,10 @@
 
 <div id="TOC"><h4>
    |<a href="#skills">Skills </a>| 
-   <a href="#Development-Projects"> Development Projects </a>| 
    <a href="#Work Experience"> Work Experience </a>| 
    <a href="#Education"> Education </a>| 
    <a href="#Interests"> Interests </a>| 
-   <a href="#Demo-Websites">APPENDIX 1 - Demo Sites </a>|</h4>
+   <a href="#coding-examples">APPENDIX 1 - Coding Examples </a>|</h4>
 </div>
 I bring enthusiam, passion and tenacious problem solving skills to the team. I love to learn new things and I am not afraid of hard work.<BR>    
 I'm looking for an inspiring Developer role (full stack) where I can continue to learn new things every day, in a development team creating innovative/world changing applications.  
@@ -31,25 +30,6 @@ I always take great pride in my work and am meticulous in my attention to detail
 <li>Organised and methodical</li>
 <li>Personable and professional in manner and presentation</li>
 </ul>
-
-<div id="Development-Projects"><h2><a href="#TOC">Development Projects</a></h2></div>
-
-<strong>Group Projects - repositories</strong><br>
-
-| Project                                  | Technologies          | Team Size   | Time Taken   | Link             |
-| :--------------:                         | :-------------------: | :---------: | :----------: | :--------------: | 
-|<a target="_blank" href = "https://github.com/glynester/project-snowflake">I'm in</a>| Javascript (Meteor) | 6 | 2 weeks|<a target="_blank" href = "https://github.com/glynester/project-snowflake">goo.gl/BVUyPZ</a>|
-|<a target="_blank" href = "https://github.com/glynester/unchained_blog">Unchained Blog</a>  | Python (Django)     | 6 | 1 week |<a target="_blank" href = "https://github.com/glynester/unchained_blog">goo.gl/zbkZm3</a>|
-|<a target="_blank" href = "https://github.com/glynester/makersbnb">Makersbnb</a>| Ruby (Sinatra)      | 4 | 1 week |<a target="_blank" href = "https://github.com/glynester/makersbnb">goo.gl/HMKKcY</a>|
-
-<strong>Individual Projects</strong>
-
-| Project             | Technologies          |  Link            |
-| :-----------------: | :-------------------: | :--------------: | 
-| <a target="_blank" href = "https://github.com/glynester/instagram-challenge">Instagram-clone</a>  | Ruby on Rails | <a target="_blank" href = "https://github.com/glynester/instagram-challenge">goo.gl/HGuiKT</a> |
-| <a target="_blank" href = "https://github.com/glynester/bowling-challenge">Bowling scorecard</a>| Javascript    | <a target="_blank" href = "https://github.com/glynester/bowling-challenge">goo.gl/1eg4LQ</a> |
-
-Prior to training at Makers Academy, I also created a number of web applications using php, javascript and mysql - e.g. see "Expense Sharing App" below.  
 
 <div id="Work Experience"><h2><a href="#TOC">Work Experience</a></h2></div>
 <b>⬇Read this introduction section please!⬇</b><br>
@@ -115,8 +95,9 @@ Institute of Chartered Accountants of Zimbabwe (ICAZ) board exam – part A
 Travel, photography, programming and web development, learning languages, playing the guitar, reading, film, theatre, music, etc.<br>
 Sports mainly tennis (I play league) but also most other sports such as squash, badminton, table tennis, cricket, football, swimming, etc.<br>
 
-# APPENDIX 1
-<div id="Demo-Websites"><h2><a href="#TOC">Demo Sites</a></h2></div>
+
+<div id="coding-examples"><h2><a href="#TOC"># APPENDIX 1 - Coding Examples</a></h2></div>
+<div><h2><a href="#TOC">Demo Sites</a></h2></div>
 
 | Project                | Description          |  Link            |
 | :--- | :------------------- | :--------------- | 
@@ -130,3 +111,22 @@ Sports mainly tennis (I play league) but also most other sports such as squash, 
 |<a href = "https://www.beautifulmountainmedia.co.uk/files/login_demo/login.php" target="_blank">Login Demo System</a>| Fully functional login system - written using PHP and javascript with a mySQL database and incorporating Google's reCAPTCHA validation.| <a target="_blank" href = "https://www.beautifulmountainmedia.co.uk/files/login_demo/login.php">https://bit.ly/3iKbju3</a> |
 |<a href = "https://www.beautifulmountainmedia.co.uk/files/data_collection_demo/index.php" target="_blank">Data Collection Form</a>| A configurable data collection form showing the configuration controller, the data collection form, and the data collected from the last input, all on the same page.| <a target="_blank" href = "https://www.beautifulmountainmedia.co.uk/files/data_collection_demo/index.php">https://bit.ly/36a3hWh</a> |
 |<a>Expense Sharing App</a>| Fully functional expense sharing app - written using PHP, javascript, jquery, ajax with a mySQL database. Use a login ID of any number between 1 and 7 to gain access. More information is available in the help section of the website.| <a target="_blank" href = ""></a> |
+
+<div><h2><a href="#TOC">Development Projects (Makers Academy)</a></h2></div>
+
+<strong>Group Projects - repositories</strong><br>
+
+| Project                                  | Technologies          | Team Size   | Time Taken   | Link             |
+| :--------------:                         | :-------------------: | :---------: | :----------: | :--------------: | 
+|<a target="_blank" href = "https://github.com/glynester/project-snowflake">I'm in</a>| Javascript (Meteor) | 6 | 2 weeks|<a target="_blank" href = "https://github.com/glynester/project-snowflake">goo.gl/BVUyPZ</a>|
+|<a target="_blank" href = "https://github.com/glynester/unchained_blog">Unchained Blog</a>  | Python (Django)     | 6 | 1 week |<a target="_blank" href = "https://github.com/glynester/unchained_blog">goo.gl/zbkZm3</a>|
+|<a target="_blank" href = "https://github.com/glynester/makersbnb">Makersbnb</a>| Ruby (Sinatra)      | 4 | 1 week |<a target="_blank" href = "https://github.com/glynester/makersbnb">goo.gl/HMKKcY</a>|
+
+<strong>Individual Projects</strong>
+
+| Project             | Technologies          |  Link            |
+| :-----------------: | :-------------------: | :--------------: | 
+| <a target="_blank" href = "https://github.com/glynester/instagram-challenge">Instagram-clone</a>  | Ruby on Rails | <a target="_blank" href = "https://github.com/glynester/instagram-challenge">goo.gl/HGuiKT</a> |
+| <a target="_blank" href = "https://github.com/glynester/bowling-challenge">Bowling scorecard</a>| Javascript    | <a target="_blank" href = "https://github.com/glynester/bowling-challenge">goo.gl/1eg4LQ</a> |
+
+Prior to training at Makers Academy, I also created a number of web applications using php, javascript and mysql - e.g. see "Expense Sharing App" below.  
