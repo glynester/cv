@@ -34,7 +34,7 @@ I always take great pride in my work and am meticulous in my attention to detail
 <div id="Work Experience"><h2><a href="#TOC">Work Experience</a></h2></div>
 <b>⬇Read this introduction section please!⬇</b><br>
 <b>Introduction</b><br>
-Although I have a lot of relevant experience and have done a great deal of self learning, <span style="background-color: yellow>I have not specifically worked as a developer/coder in the industry.</span><br>
+Although I have a lot of relevant experience and have done a great deal of self learning, &#x1F534;<em><b>I have not specifically worked as a developer/coder in the industry.</b></em><br>
 To save us both some time, when you respond to my CV, I would ask that you make <strong>reference</strong> to this fact.<br>
 If you don't specifically mention this, I will assume that you have not read my CV.<br><br> 
 
