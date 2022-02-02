@@ -1,11 +1,11 @@
 # Glenn Bemont
 
 <div id="TOC"><h4>
-   |<a href="#skills">Skills </a>| 
+   | <a href="#skills">Skills </a>| 
    <a href="#Work Experience"> Work Experience </a>| 
    <a href="#Education"> Education </a>| 
-   <a href="#Interests"> Interests </a>| 
-   <a href="#coding-examples">APPENDIX 1 - Coding Examples </a>|</h4>
+   <a href="#coding-examples">Coding Examples </a>|
+   <a href="#Interests"> Interests </a>| </h4>
 </div>
 I bring enthusiam, passion and tenacious problem solving skills to the team. I love to learn new things and I am not afraid of hard work.<BR>    
 I'm looking for an inspiring Developer role (full stack) where I can continue to learn new things every day, in a development team creating innovative/world changing applications.  
@@ -62,7 +62,12 @@ I have a more detailed CV that covers the above roles.
 Only education relevant to development has been included. I have done many courses that I have not listed here.
 
 <strong>Recent</strong><br>
-JavaScript - The Advanced Concepts (2022 Update) - Completed December 2021 - Certificate: https://bit.ly/3sHmivg
+The Complete Node.js Developer Course (3rd Edition) - Completed February 2022 (35 hrs) - Certificate: https://bit.ly/32QQ4Dr <br> 
+Course content - https://bit.ly/3oiRQVv
+Node, Postman, heroku, REST(get,post,patch,delete + http status codes), mongoose, MongoDB, express, GIT, Robo3T(MongoDB), promises, async await, bcryptjs, jsonwebtoken, Jest, supertest, socket.io, momentjs, mustache, qs <br> 
+<br> 
+JavaScript - The Advanced Concepts (2022 Update) - Completed December 2021 (25.5 hrs) - Certificate: https://bit.ly/3sHmivg <br> 
+Course content -  https://bit.ly/3gj1K54 <br> 
 
 <strong>Makers Academy (August/September 2016 to December 2016)</strong><br>
 A 16-week intensive development bootcamp, emphasizing:
@@ -89,15 +94,9 @@ Over 2,300 coding problems solved.<br>
 <strong>Bachelor of Commerce (Accounting) University of Natal - Pietermaritzburg</strong><br>
 3½ years accountancy articles - KPMG Zimbabwe<br>
 Institute of Chartered Accountants of Zimbabwe (ICAZ) board exam – part A
- 
 
-<div id="Interests"><h2><a href="#TOC">Interests</a></h2></div>
-Travel, photography, programming and web development, learning languages, playing the guitar, reading, film, theatre, music, etc.<br>
-Sports mainly tennis (I play league) but also most other sports such as squash, badminton, table tennis, cricket, football, swimming, etc.<br>
-
-
-<div id="coding-examples"><h2><a href="#TOC"># APPENDIX 1 - Coding Examples</a></h2></div>
-<div><h2><a href="#TOC">Demo Sites</a></h2></div>
+<div id="coding-examples"><h2><a href="#TOC"># Coding Examples</a></h2></div>
+<div><h3><a href="#TOC">Demo Sites</a></h3></div>
 
 | Project                | Description          |  Link            |
 | :--- | :------------------- | :--------------- | 
@@ -112,7 +111,7 @@ Sports mainly tennis (I play league) but also most other sports such as squash, 
 |<a href = "https://www.beautifulmountainmedia.co.uk/files/data_collection_demo/index.php" target="_blank">Data Collection Form</a>| A configurable data collection form showing the configuration controller, the data collection form, and the data collected from the last input, all on the same page.| <a target="_blank" href = "https://www.beautifulmountainmedia.co.uk/files/data_collection_demo/index.php">https://bit.ly/36a3hWh</a> |
 |<a>Expense Sharing App</a>| Fully functional expense sharing app - written using PHP, javascript, jquery, ajax with a mySQL database. Use a login ID of any number between 1 and 7 to gain access. More information is available in the help section of the website.| <a target="_blank" href = ""></a> |
 
-<div><h2><a href="#TOC">Development Projects (Makers Academy)</a></h2></div>
+<div><h3><a href="#TOC">Development Projects (Makers Academy)</a></h3></div>
 
 <strong>Group Projects - repositories</strong><br>
 
@@ -130,3 +129,7 @@ Sports mainly tennis (I play league) but also most other sports such as squash, 
 | <a target="_blank" href = "https://github.com/glynester/bowling-challenge">Bowling scorecard</a>| Javascript    | <a target="_blank" href = "https://github.com/glynester/bowling-challenge">goo.gl/1eg4LQ</a> |
 
 Prior to training at Makers Academy, I also created a number of web applications using php, javascript and mysql - e.g. see "Expense Sharing App" below.  
+   
+<div id="Interests"><h2><a href="#TOC">Interests</a></h2></div>
+Travel, photography, programming and web development, learning languages, playing the guitar, reading, film, theatre, music, etc.<br>
+Sports mainly tennis (I play league) but also most other sports such as squash, badminton, table tennis, cricket, football, swimming, etc.<br>
