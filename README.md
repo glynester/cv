@@ -32,7 +32,7 @@ I always take great pride in my work and am meticulous in my attention to detail
 </ul>
 
 <div id="Work Experience"><h2><a href="#TOC">Work Experience</a></h2></div>
-<b>⬇Read this introduction section please!⬇</b><br>
+<b>⬇Read this Introduction section please!⬇</b><br><br>
 <b>Introduction</b><br>
 Although I have a lot of relevant experience and have done a great deal of self learning, &#x1F534;<em><b>I have not specifically worked as a developer/coder in the industry.</b></em><br>
 To save us both some time, when you respond to my CV, I would ask that you make <strong>reference</strong> to this fact.<br>
@@ -59,16 +59,26 @@ Multiple positions encompassing the whole project lifecycle within very large as
 I have a more detailed CV that covers the above roles.
 
 <div id="Education"><h2><a href="#TOC">Education</a></h2></div>
-Only education relevant to development has been included. I have done many courses that I have not listed here.
-
-<strong>Recent</strong><br>
-The Complete Node.js Developer Course (3rd Edition) - Completed February 2022 (35 hrs) - Certificate: https://bit.ly/32QQ4Dr <br> 
-Course content - https://bit.ly/3oiRQVv
+Only education relevant to development has been included. I have done many courses that I have not listed here. <br>
+<br>
+<strong>Recent Courses</strong><br>
+<br>   
+The Complete <b>Git</b> Guide: Understand and master Git and GitHub - Started Feb 2022 WIP (23 hrs) <br> 
+Course content -  https://bit.ly/33hpUdg <br>
+git, Github, SourceTree
+   
+The Complete <b>Node.js</b> Developer Course (3rd Edition) - Completed February 2022 (35 hrs) <br>
+Completion Certificate: https://bit.ly/32QQ4Dr <br> 
+Course content - https://bit.ly/3oiRQVv <br>
 Node, Postman, heroku, REST(get,post,patch,delete + http status codes), mongoose, MongoDB, express, GIT, Robo3T(MongoDB), promises, async await, bcryptjs, jsonwebtoken, Jest, supertest, socket.io, momentjs, mustache, qs <br> 
 <br> 
-JavaScript - The Advanced Concepts (2022 Update) - Completed December 2021 (25.5 hrs) - Certificate: https://bit.ly/3sHmivg <br> 
+<b>JavaScript</b> - The Advanced Concepts (2022 Update) - Completed December 2021 (25.5 hrs) <br> 
+Completion Certificate: https://bit.ly/3sHmivg <br> 
 Course content -  https://bit.ly/3gj1K54 <br> 
 
+<b>Ruby</b> - Basics through to OOP, classes and modules - Completed December 2021 (10 hrs) <br> 
+Course content -  https://bit.ly/3I02BUg <br> 
+   
 <strong>Makers Academy (August/September 2016 to December 2016)</strong><br>
 A 16-week intensive development bootcamp, emphasizing:
 pair-programming, test driven development, object oriented design, agile methodologies.  
@@ -100,7 +110,7 @@ Institute of Chartered Accountants of Zimbabwe (ICAZ) board exam – part A
 
 | Project                | Description          |  Link            |
 | :--- | :------------------- | :--------------- | 
-|<a target="_blank" href = "https://github.com/glynester">G Bemont Github Account</a>| My github repository containing all the code mentioned above. | <a target="_blank" href = "https://github.com/glynester">goo.gl/5ntzXe</a> |
+|<a target="_blank" href = "https://github.com/glynester">My Github Account</a>| My github repository containing all the code mentioned above. | <a target="_blank" href = "https://github.com/glynester">goo.gl/5ntzXe</a> |
 |<a target="_blank" href = "https://gb-node-chat-app.herokuapp.com/">Chat App</a> | Real time chat room app created with Web Sockets (socket.io) and Express.js (node js) | <a target="_blank" href = "https://gb-node-chat-app.herokuapp.com/">https://bit.ly/3rnCxwQ</a> | 
 |<a target="_blank" href = "https://gb-node-task-manager.herokuapp.com/">Task Manager App</a> | REST API (express, nodejs, postman), user authentication (bcryptjs, jsonwebtoken, validator), database storage (mongoose, mongodb), file uploads (multer, sharp), email notifications (sendgrid), testing (jest, supertest) | <a target="_blank" href = "https://gb-node-task-manager.herokuapp.com/">https://bit.ly/3se9ZET</a> |
 |<a target="_blank" href = "https://gb-node-weather-app-web-server.herokuapp.com/">Weather App</a> | App using asynchronous programming to access 2 public API's to return weather details (nodejs, request) | <a target="_blank" href = "https://gb-node-weather-app-web-server.herokuapp.com/">https://bit.ly/3usVZd8</a> |
