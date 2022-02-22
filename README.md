@@ -16,19 +16,36 @@ I love to solve problems (I consider myself to be very good at it) and I love to
 Over my career, I have also developed a great eye for what makes software well designed from a user's perspective and what makes for a pleasant user experience. I have now also added strong backend coding and database design to my list of skills.<BR>  
 I always take great pride in my work and am meticulous in my attention to detail.   
 
+<h3>Developer Skills Summary - At a glance</h3>
+
+<ul>
+   <li>Languages: main:[Javascript, Ruby], secondary: [PHP, Python]</li>
+   <li>Web Frameworks: [Node, Express, React]</li>
+   <li>Real-time: [socket.io]</li>
+   <li>App Deployment Platforms: [gihub.io, heroku]</li>
+   <li>Version Control: [Git (Command line, github.com, GitHub desktop, Git bash, Sourcetree)]</li>
+   <li>IDE's and editors: [Visual Studio Code, Atom]</li>
+   <li>API: [Postman]</li>
+   <li>Testing: [Jest, Rspec, Jasmine]</li>
+   <li>Web page: [HTML, CSS]</li>
+   <li>Databases: [MongoDB, mySQL]</li>
+   <li>Other coding skills: [Regular expressions]</li>   
+</ul>
+<p>Not all experience has been listed above - see 'Education' below for more details.</p>
+   
 <h3>Additional Skills</h3>
 <ul>
-<li>Learn new processes and software quickly</li>
-<li>Very strong programming/logical and numerical abilities</li>
-<li>Full project lifecycle experience</li>
-<li>Strongly computer literate with an excellent working knowledge of a wide variety of application programs, (strong skills in Excel and MS Access) and Enterprise Information Systems</li>
-<li>Strong software and user interface design knowledge</li>
-<li>Strong financial/accounting knowledge</li>
-<li>Self motivated, conscientious and responsible</li>
-<li>Strong communicator with excellent written skills</li>
-<li>Confident and effective in relating to people</li>
-<li>Organised and methodical</li>
-<li>Personable and professional in manner and presentation</li>
+   <li>Learn new processes and software quickly</li>
+   <li>Very strong programming/logical and numerical abilities</li>
+   <li>Full project lifecycle experience</li>
+   <li>Strongly computer literate with an excellent working knowledge of a wide variety of application programs, (strong skills in Excel and MS Access) and Enterprise Information Systems</li>
+   <li>Strong software and user interface design knowledge</li>
+   <li>Strong financial/accounting knowledge</li>
+   <li>Self motivated, conscientious and responsible</li>
+   <li>Strong communicator with excellent written skills</li>
+   <li>Confident and effective in relating to people</li>
+   <li>Organised and methodical</li>
+   <li>Personable and professional in manner and presentation</li>
 </ul>
 
 <div id="Work Experience"><h2><a href="#TOC">Work Experience</a></h2></div>
@@ -79,17 +96,17 @@ Course content -  https://bit.ly/3gj1K54 <br>
 <b>Ruby</b> - Basics through to OOP, classes and modules - Completed December 2021 (10 hrs) <br> 
 Course content -  https://bit.ly/3I02BUg <br> 
    
-<strong>Makers Academy (August/September 2016 to December 2016)</strong><br>
+<strong>Makers Academy</strong> (August 2016 to December 2016)<br>
 A 16-week intensive development bootcamp, emphasizing:
 pair-programming, test driven development, object oriented design, agile methodologies.  
 <ul>
-<li>OOP, TDD, SOLID, MVC</li>
-<li>Software Craftsmanship</li>
-<li>Frameworks: Ruby (Sinatra, Ruby on Rails), Javascript (Meteor, Express), Python (Django)</li>
-<li>Testing Software: Rspec, Jasmine, Capybara, Chimp, Mocha/Chai</li>
-<li>Databases: Postgresql, Mongo DB, mySQL</li>
-<li>Software version control: github</li>
-<li>Other: Jquery, node.js, ajax, css, html, bootstrap, regex</li>
+   <li>OOP, TDD, SOLID, MVC</li>
+   <li>Software Craftsmanship</li>
+   <li>Frameworks: Ruby (Sinatra, Ruby on Rails), Javascript (Meteor, Express), Python (Django)</li>
+   <li>Testing Software: Rspec, Jasmine, Capybara, Chimp, Mocha/Chai</li>
+   <li>Databases: Postgresql, Mongo DB, mySQL</li>
+   <li>Software version control: github</li>
+   <li>Other: Jquery, node.js, ajax, css, html, bootstrap, regex</li>
 </ul>
 
 ReactJS  
