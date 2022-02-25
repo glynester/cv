@@ -80,7 +80,8 @@ Only education relevant to development has been included. I have done many cours
 <br>
 <strong>Recent Courses</strong><br>
 <br>   
-The Complete <b>Git</b> Guide: Understand and master Git and GitHub - Started Feb 2022 WIP (23 hrs) <br> 
+The Complete <b>Git</b> Guide: Understand and master Git and GitHub - Completed Feb 2022 WIP (23 hrs) <br> 
+Completion Certificate: https://bit.ly/36JSDZF <br>
 Course content -  https://bit.ly/33hpUdg <br>
 git, Github, SourceTree
    
