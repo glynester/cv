@@ -51,9 +51,8 @@ I always take great pride in my work and am meticulous in my attention to detail
 <div id="Work Experience"><h2><a href="#TOC">Work Experience</a></h2></div>
 <b>⬇Read this Introduction section please!⬇</b><br><br>
 <b>Introduction</b><br>
-Although I have a lot of relevant experience and have done a great deal of self learning, &#x1F534;<em><b>I have not specifically worked as a developer/coder in the industry.</b></em><br>
-To save us both some time, when you respond to my CV, I would ask that you make <strong>reference</strong> to this fact.<br>
-If you don't specifically mention this, I will assume that you have not read my CV.<br><br> 
+Although I have a lot of relevant experience and have done a great deal of self learning, &#x1F534;<em><b>I have not specifically worked as a developer/coder in the industry.</b></em>&#x1F534;<br>
+To save us both some time, when you respond to my CV, I would ask that you make <strong>reference</strong> to this fact so that I know you are aware of it.<br><br> 
 
 <b>Self Employed (May 2015 to present)</b><br>   
    
@@ -114,15 +113,17 @@ pair-programming, test driven development, object oriented design, agile methodo
    <li>Other: Jquery, node.js, ajax, css, html, bootstrap, regex</li>
 </ul>
 
-ReactJS  
-Adobe Photoshop® CS5 Associate Certification  
-SASS
+ReactJS  <br><br>
+Adobe Photoshop® CS5 Associate Certification  <br><br>
+SASS <br><br>
+
+> <b>Coding Practice</b> - https://www.codewars.com/users/glynester  - There are 8 coding proficiency levels - the top level is level 1.<br>
+> Over 2,400 coding problems solved. My current levels are:
+> <ul>
+>   <li>Javascript - level 2 </li>
+>   <li>Ruby - level 3 </li>
+> </ul>
 <br>
-CodeWars Profile - https://www.codewars.com/users/glynester 
-(There are 8 coding proficiency levels - the top level is 1)
-+ Javascript - level 2<br>
-+ Ruby - level 3<br>
-Over 2,300 coding problems solved.<br>
 
 <strong>Bachelor of Commerce (Accounting) University of Natal - Pietermaritzburg</strong><br>
 3½ years accountancy articles - KPMG Zimbabwe<br>
