@@ -80,6 +80,10 @@ Only education relevant to development has been included. I have done many cours
 <br>
 <strong>Recent Courses</strong><br>
 <br>   
+Modern <b>React</b> with Redux - Started Feb 2022 - WIP (52 hrs 37 mins) <br> 
+Course content -  https://bit.ly/3tgkc4v <br>
+Master React and Redux with React Router, Webpack, and Create-React-App. Includes Hooks! <br>   
+<br>   
 The Complete <b>Git</b> Guide: Understand and master Git and GitHub - Completed Feb 2022 (23 hrs) <br> 
 Completion Certificate: https://bit.ly/36JSDZF <br>
 Course content -  https://bit.ly/33hpUdg <br>
@@ -93,10 +97,10 @@ Node, Postman, heroku, REST(get,post,patch,delete + http status codes), mongoose
 <b>JavaScript</b> - The Advanced Concepts (2022 Update) - Completed December 2021 (25.5 hrs) <br> 
 Completion Certificate: https://bit.ly/3sHmivg <br> 
 Course content -  https://bit.ly/3gj1K54 <br> 
-
+<br>
 <b>Ruby</b> - Basics through to OOP, classes and modules - Completed December 2021 (10 hrs) <br> 
 Course content -  https://bit.ly/3I02BUg <br> 
-   
+<br>   
 <strong>Makers Academy</strong> (August 2016 to December 2016)<br>
 A 16-week intensive development bootcamp, emphasizing:
 pair-programming, test driven development, object oriented design, agile methodologies.  
@@ -112,12 +116,13 @@ pair-programming, test driven development, object oriented design, agile methodo
 
 ReactJS  
 Adobe Photoshop® CS5 Associate Certification  
-SASS  
+SASS
+<br>
 CodeWars Profile - https://www.codewars.com/users/glynester 
+(There are 8 coding proficiency levels - the top level is 1)
++ Javascript - level 2<br>
++ Ruby - level 3<br>
 Over 2,300 coding problems solved.<br>
-* Javascript - level 2<br>
-* Ruby - level 3<br>
-(out of 8 levels - top level is 1)
 
 <strong>Bachelor of Commerce (Accounting) University of Natal - Pietermaritzburg</strong><br>
 3½ years accountancy articles - KPMG Zimbabwe<br>
