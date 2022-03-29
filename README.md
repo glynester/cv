@@ -8,7 +8,7 @@
    <a href="#Interests"> Interests </a>| </h4>
 </div>
 I bring enthusiam, passion and tenacious problem solving skills to the team. I love to learn new things and I am not afraid of hard work.<BR>    
-I'm looking for an inspiring Developer role (full stack) where I can continue to learn new things every day, in a development team creating innovative/world changing applications.  
+I'm looking for an inspiring Developer role (full stack) where I can continue to learn new things every day, in a development team creating innovative and helpful applications. I will gladly learn any new language/library in addition to the ones I know. 
 
 <div id="skills"><h2><a href="#TOC">Skills</a></h2></div>
 I get a huge amount of satisfaction from getting computer programs to function as I intend them to by writing the code instructions.<BR>   
@@ -79,7 +79,7 @@ Only education relevant to development has been included. I have done many cours
 <br>
 <strong>Recent Courses</strong><br>
 <br>   
-Modern <b>React</b> with Redux - Started Feb 2022 - WIP=45% complete (52 hrs 37 mins) <br> 
+Modern <b>React</b> with Redux - Started Feb 2022 - WIP=50% complete (52 hrs 37 mins) <br> 
 Course content -  https://bit.ly/3tgkc4v <br>
 Sample React website built: (Widgets - https://bit.ly/3J5JSYk), Videos - https://bit.ly/3vMtGr8), (Pics - https://bit.ly/3MpSLhn) <br>
 Master React and Redux with React Router, Webpack, and Create-React-App. Includes Hooks! <br>   
