@@ -79,11 +79,12 @@ Only education relevant to development has been included. I have done many cours
 <br>
 <strong>Recent Courses</strong><br>
 <br>   
-Modern <b>React</b> with Redux - Completed June 2022 (52 hrs 37 mins - total course) <br> 
+Modern <b>React</b> with Redux - Completed 3 August 2022 (52 hrs 37 mins - total course) <br>
+Completion Certificate: https://bit.ly/3BFCNN5
 Course content -  https://bit.ly/3tgkc4v <br>
-Sample React website built: (Widgets - https://bit.ly/3J5JSYk), Videos - https://bit.ly/3vMtGr8), (Pics - https://bit.ly/3MpSLhn) <br>
+Sample React websites built: (Widgets - https://bit.ly/3J5JSYk), Videos - https://bit.ly/3vMtGr8), (Pics - https://bit.ly/3MpSLhn) <br>
 Master React and Redux with React Router, Redux Thunk, Webpack, and Create-React-App. Includes Hooks! <br>   
-Working with older versions of React - Started June 2022 - WIP=80% complete<br> 
+Working with older versions of React<br> 
 <br>   
 The Complete <b>Git</b> Guide: Understand and master Git and GitHub - Completed Feb 2022 (23 hrs) <br> 
 Completion Certificate: https://bit.ly/36JSDZF <br>
