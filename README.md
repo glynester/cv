@@ -80,7 +80,7 @@ Only education relevant to development has been included. I have done many cours
 <strong>Recent Courses</strong><br>
 <br>   
 Modern <b>React</b> with Redux - Completed 3 August 2022 (52 hrs 37 mins - total course) <br>
-Completion Certificate: https://bit.ly/3BFCNN5
+Completion Certificate: https://bit.ly/3BFCNN5 <br>
 Course content -  https://bit.ly/3tgkc4v <br>
 Sample React websites built: (Widgets - https://bit.ly/3J5JSYk), Videos - https://bit.ly/3vMtGr8), (Pics - https://bit.ly/3MpSLhn) <br>
 Master React and Redux with React Router, Redux Thunk, Webpack, and Create-React-App. Includes Hooks! <br>   
