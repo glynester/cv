@@ -19,7 +19,7 @@ I always take great pride in my work and am meticulous in my attention to detail
 <h3>Developer Skills Summary - At a glance</h3>
 
 <ul>
-   <li>Languages: main:[Javascript, Ruby], secondary: [PHP, Python]</li>
+   <li>Languages: main:[Javascript, Python, Ruby], secondary: [PHP]</li>
    <li>Web Frameworks: [Node, Express, React]</li>
    <li>Real-time: [socket.io]</li>
    <li>App Deployment Platforms: [gihub.io, heroku]</li>
