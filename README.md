@@ -79,9 +79,14 @@ Only education relevant to development has been included. I have done many cours
 <br>
 <strong>Recent Courses</strong><br>
 <br>   
-   Learn <b>Python 3</b> - Completed 10 August 2022 (25 hrs - total course) <br>
+Learn <b>Python 3</b> - Completed 10 August 2022 (25 hrs - total course) <br>
 Course content - https://bit.ly/2ze7WpX <br>
 control flow, lists, loops, functions, strings, modules, dictionaries, files, classes, code challenges, Jupyter Notebook <br>
+<br>
+One Week <b>Python</b> - Completed 11 September 2022 (14.5 hrs - total course) <br>
+Completion Certificate: https://bit.ly/3xi1oEO <br>
+Course content - https://bit.ly/3RWI0ow <br>
+Python variables, Strings and string methods, Booleans, Conditional Logic, Boolean Logic, Loops, Functions, Scope, Lists, Dictionaries, Sets, Tuples, *args and **kwargs, Working with errors, Custom modules, 3rd party modules, PIP, Object Oriented Programming, Classes <br>
 <br>
    
 Modern <b>React</b> with Redux - Completed 3 August 2022 (52 hrs 37 mins - total course) <br>
