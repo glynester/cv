@@ -19,16 +19,17 @@ I always take great pride in my work and am meticulous in my attention to detail
 <h3>Developer Skills Summary - At a glance</h3>
 
 <ul>
-   <li>Languages: main:[Javascript, Python, Ruby], secondary: [PHP]</li>
+   <li>Languages: main:[Javascript, Python, Ruby], secondary: [PHP, Java]</li>
    <li>Web Frameworks: [Node, Express, React]</li>
    <li>Real-time: [socket.io]</li>
    <li>App Deployment Platforms: [gihub.io, heroku]</li>
    <li>Version Control: [Git (Command line, github.com, GitHub desktop, Git bash, Sourcetree)]</li>
-   <li>IDE's and editors: [Visual Studio Code, Atom, Sublime][Pycharm]</li>
+   <li>IDE's and editors: [Visual Studio Code, Atom, Sublime][Pycharm][Eclipse IDE]</li>
    <li>API: [Postman]</li>
    <li>Testing: [Jest, Rspec, Jasmine]</li>
    <li>Web page: [HTML, CSS]</li>
-   <li>Databases: [MongoDB, mySQL]</li>
+   <li>Databases: [MongoDB, mySQL, postgreSQL]</li>
+   <li>Relational database: [SQL]</li>
    <li>Other coding skills: [Regular expressions]</li>   
 </ul>
 <p>Not all experience has been listed above - see 'Education' below for more details.</p>
