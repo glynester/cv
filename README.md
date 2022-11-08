@@ -27,7 +27,7 @@ I always take great pride in my work and am meticulous in my attention to detail
    <li>IDE's and editors: [Visual Studio Code, Atom, Sublime][Pycharm][Eclipse IDE]</li>
    <li>API: [Postman]</li>
    <li>Testing: [Jest, Rspec, Jasmine]</li>
-   <li>Web page: [HTML, CSS]</li>
+   <li>Web page: [HTML, CSS, JQuery]</li>
    <li>Databases: [MongoDB, mySQL, postgreSQL]</li>
    <li>Relational database: [SQL]</li>
    <li>Other coding skills: [Regular expressions]</li>   
