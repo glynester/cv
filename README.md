@@ -22,7 +22,7 @@ I always take great pride in my work and am meticulous in my attention to detail
    <li>Languages: main:[Javascript, Python, Ruby], secondary: [PHP, Java]</li>
    <li>Web Frameworks: [Node, Express, React]</li>
    <li>Real-time: [socket.io]</li>
-   <li>App Deployment Platforms: [gihub.io, heroku]</li>
+   <li>App Deployment Platforms: [github.io, heroku]</li>
    <li>Version Control: [Git (Command line, github.com, GitHub desktop, Git bash, Sourcetree)]</li>
    <li>IDE's and editors: [Visual Studio Code, Atom, Sublime][Pycharm][Eclipse IDE]</li>
    <li>API: [Postman]</li>
