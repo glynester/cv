@@ -133,7 +133,7 @@ Adobe Photoshop® CS5 Associate Certification  <br><br>
 SASS <br><br>
 
 > <b>Coding Practice</b> - https://www.codewars.com/users/glynester  - There are 8 coding proficiency levels - the top level is level 1.<br>
->  It took about 6 year of solving coding problems to reach level 1.<br>
+>  It took about 6 years of solving coding problems to reach level 1. https://docs.codewars.com/gamification/ranks/#required-score<br>
 > Approx 2,500 coding problems solved. My current levels are:
 > <ul>
 >   <li>Overall - <b>level 1</b>, 0.1% complete</li>
