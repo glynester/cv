@@ -28,8 +28,7 @@ I always take great pride in my work and am meticulous in my attention to detail
    <li>API testing: [Postman]</li>
    <li>Testing: [Jest, Rspec, Jasmine]</li>
    <li>Web page: [HTML, CSS, JQuery]</li>
-   <li>Databases: [MongoDB, mySQL, postgreSQL]</li>
-   <li>Relational database: [SQL]</li>
+   <li>Databases: [MongoDB, mySQL, SQL Server(SQL Server Management Studio), postgreSQL]</li>
    <li>Using thirdparty API's: [Youtube, etc.]</li>
    <li>Other coding skills: [Regular expressions]</li>   
 </ul>
