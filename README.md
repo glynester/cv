@@ -151,6 +151,7 @@ Institute of Chartered Accountants of Zimbabwe (ICAZ) board exam – part A
 | Project                | Description          |  Link            |
 | :--- | :------------------- | :--------------- | 
 |<a target="_blank" href = "https://github.com/glynester">My Github Account</a>| My github repository containing all the code mentioned above. | <a target="_blank" href = "https://github.com/glynester">goo.gl/5ntzXe</a> |
+|<a target="_blank" href = "https://gb-fakeshop-redux.netlify.app/">Fake Shop</a> | Shop display app using fakeshop API created with React and Redux | <a target="_blank" href = "https://glynester.github.io/videos/">https://bit.ly/3CBHJlT</a> |   
 |<a target="_blank" href = "https://glynester.github.io/videos/">YT API Videos App</a> | Videos search app using Youtube API created with React and Redux | <a target="_blank" href = "https://glynester.github.io/videos/">http://bitly.ws/wsTu</a> |
 |<a target="_blank" href = "https://glynester.github.io/pics/">Unsplash API Images App</a> | Images search app using Unsplash API created with React and Redux | <a target="_blank" href = "https://glynester.github.io/pics/">http://bitly.ws/wt2Z</a> | 
 |<a target="_blank" href = "https://glynester.github.io/widgets/">Wikipedia API and Google Translate API</a> | Wikipedia search and Google translate (using API's) created with React and Redux | <a target="_blank" href = "https://glynester.github.io/widgets/">http://bitly.ws/wtAW</a> |   
