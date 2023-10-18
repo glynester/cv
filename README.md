@@ -11,8 +11,9 @@ I bring enthusiasm, passion and tenacious problem solving skills to the team. I 
 I'm looking for an inspiring Developer role (full stack) where I can continue to learn new things every day, in a development team creating innovative and helpful applications. Having spent a great deal of time learning Javascript, I feel that I am strongly positioned to step into a role that will utilise these skills. However, I will gladly learn any new language/library in addition to the ones I know. 
 
 <div id="skills"><h2><a href="#TOC">Skills</a></h2></div>
-I get a huge amount of satisfaction from getting computer programs to function as I intend them to by writing the code instructions.<BR>   
-I love to solve problems (I consider myself to be very good at it) and I love to learn new things and get to grips with new technologies. In the business consultant/analyst roles I had during the latter half of my career, I often acted as a translator between the needs of software users and the development teams. These years of work experience honed my problem solving skills. I can now apply these skills in the role of developer.<BR>   
+I love to solve problems (I consider myself to be very good at it) and I love to learn new things and get to grips with new technologies. 
+I get a huge amount of satisfaction from getting computer programs to function as I intend them to, by writing code.<BR> 
+In the business consultant/analyst roles I had during the latter half of my career, I often acted as a translator between the needs of software users and the development teams. These years of work experience honed my problem solving skills. I can now apply these skills in the role of developer.<BR>   
 Over my career, I have also developed a great eye for what makes software well designed from a user's perspective and what makes for a pleasant user experience. I have now also added strong backend coding and database design to my list of skills.<BR>  
 I always take great pride in my work and am meticulous in my attention to detail.   
 
@@ -51,7 +52,20 @@ I always take great pride in my work and am meticulous in my attention to detail
 
 <div id="Work Experience"><h2><a href="#TOC">Work Experience</a></h2></div>
 
-<b>Self Employed (May 2015 to present)</b><br>   
+<b>IPS (Integrated Payment Solutions) - Software Development Department</b> (Nov 2022 - present), UK<br>
+Developer - Card and Access Control Systems, Tills, Restaurant Ordering, Visitor Management, Active Directory, Data Integration (to connect to client MIS Systems), etc.<br>
+IPS has multiple clients with bespoke installations of their products running on Tomcat servers and using Java (full stack) and Javascript (React) front end/ Java back end and SQL Server databases.
+Access to client sites is via Teamviewer, Remote Desktop and VPN.<br><br> 
+<b>Main projects/achievements and tasks:</b><br> 
+<ul>
+   <li>Additional features added to Restaurant Ordering System (React, Java, SQL Server) and significant reworking of the database tables and system design.
+   <li>Monitoring system set up to extract key data from client database systems and mail it to a dedicated mailbox as csv attachments. The data is then extracted and summarised on a           dashboard webpage highlighting problems early. Done using the Outlook REST API, javascript and nodejs. 
+   <li>Amending base software products and updating in git repository.
+   <li>Problem solving for different software products on client sites.
+   <li>Extensive work with SQL Server databases including tables, queries, views, stored procedures, SQL Server mail, SQL Server Agent
+</ul>
+
+<b>Self Employed</b> (May 2015 to Oct 2022)<br>   
    
 <b>AccessPay - Consultancy Division</b> (April 2014 - May 2015), UK<br>
 Project Management and Implementation - Payments solutions software<br>
