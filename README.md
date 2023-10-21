@@ -53,17 +53,29 @@ I always take great pride in my work and am meticulous in my attention to detail
 <div id="Work Experience"><h2><a href="#TOC">Work Experience</a></h2></div>
 
 <b>IPS (Integrated Payment Solutions) - Software Development Department</b> (Nov 2022 - present), UK<br>
-Developer - Card and Access Control Systems, Tills, Restaurant Ordering, Visitor Management, Active Directory, Data Integration (to connect to client MIS Systems), etc.<br>
+Developer - Card and Access Control Systems (including printing and encoding of cards), Tills, Restaurant Ordering, Visitor Management, Active Directory, Data Integration (to connect to client MIS Systems), etc.<br>
 IPS has multiple clients with bespoke installations of their products running on Tomcat servers and using Java (full stack) and Javascript (React) front end/ Java back end and SQL Server databases.
 Access to client sites is via Teamviewer, Remote Desktop and VPN.<br><br> 
 <b>Main projects/achievements and tasks:</b><br> 
 <ul>
-   <li>Additional features added to Restaurant Ordering System (React, Java, SQL Server) and significant reworking of the database tables and system design.
-   <li>Monitoring system set up to extract key data from client database systems and mail it to a dedicated mailbox as csv attachments. The data is then extracted and summarised on a           dashboard webpage highlighting problems early. Done using the Outlook REST API, javascript and nodejs. 
-   <li>Amending base software products and updating in git repository.
+   <li>Major changes (full stack) made to the Restaurant Ordering System sql tables reflecting an improved way of storing orders in the database. Additional features added to the product such as ability to create a restaurant tab, which can be converted to a restaurant table.  Cosmetic changes  also made to greatly improve the look of the product (html and css). The system has a React front end, Java API backend and a SQL database. All changes designed and built by me.
+   <li>Monitoring system set up from scratch to extract key data from client database systems using SQL Server Agent tasks and send it by mail as csv attachments to a dedicated mailbox. The data is then extracted and summarised on a dashboard webpage highlighting problems early. Done using the MS Outlook REST API, Javascript and nodejs. The whole system was designed and built by me.
+   <li>Changes made to Visitor Management software (Java full stack) to make it easier for a visitor to use.
+   <li>Compiled extract files (based on client spec) of cash register transactions from the client's till transactions database and placed these in a network drive for the client's system to pick up and input to their own accounting system.
+   <li>Extensive work with SQL Server databases including tables, queries, views, stored procedures, SQL Server mail, SQL Server Agent, database replication, restoration and backup.
+   <li>Deployment of software to client sites.
+   <li>Setting up Tomcat servers and card printer/encoders.
+   <li>Amending base software products and updating in company git repository.
    <li>Problem solving for different software products on client sites.
-   <li>Extensive work with SQL Server databases including tables, queries, views, stored procedures, SQL Server mail, SQL Server Agent
 </ul>
+
+<b>Software Used:</b><br>
+   <ul>
+      <li>Netbeans - Java
+      <li>Visual Studio Code - React (Javascript)
+      <li>SQL Server
+      <li>Fork - use with Git 
+   </ul>
 
 <b>Self Employed</b> (May 2015 to Oct 2022)<br>   
    
