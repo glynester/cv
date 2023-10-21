@@ -58,26 +58,28 @@ IPS has multiple clients with bespoke installations of their products running on
 Access to client sites is via Teamviewer, Remote Desktop and VPN.<br><br> 
 <b>Main projects/achievements and tasks:</b><br> 
 <ul>
-   <li>Major changes (full stack) made to the Restaurant Ordering System sql tables reflecting an improved way of storing orders in the database. Additional features added to the product such as ability to create a restaurant tab, which can be converted to a restaurant table.  Cosmetic changes  also made to greatly improve the look of the product (html and css). The system has a React front end, Java API backend and a SQL database. All changes designed and built by me.
-   <li>Monitoring system set up from scratch to extract key data from client database systems using SQL Server Agent tasks and send it by mail as csv attachments to a dedicated mailbox. The data is then extracted and summarised on a dashboard webpage highlighting problems early. Done using the MS Outlook REST API, Javascript and nodejs. The whole system was designed and built by me.
-   <li>Changes made to Visitor Management software (Java full stack) to make it easier for a visitor to use.
+   <li>Major changes (full stack) made to the Restaurant Ordering System SQL tables reflecting an improved way of storing bill items in the database. Additional features added to the software such as ability to create a restaurant tab, which can be converted to a restaurant table.  Cosmetic changes  also made to greatly improve the look of the product (html and css). The system has a React front end, Java API backend and a SQL database. All changes designed and built by me.
+   <li>Monitoring system set up to extract key data from client database systems using SQL Server Agent tasks and send it by mail as csv attachments to a dedicated mailbox. The data is then extracted and summarised on a dashboard webpage to highlight problems early. Built using the MS Outlook REST API, Javascript and nodejs. The whole system was designed and built by me from scratch.
+   <li>Changes made to Visitor Management software (Java full stack) to make it easier for a visitor to use and improvements made to admin side of the software.
    <li>Compiled extract files (based on client spec) of cash register transactions from the client's till transactions database and placed these in a network drive for the client's system to pick up and input to their own accounting system.
    <li>Extensive work with SQL Server databases including tables, queries, views, stored procedures, SQL Server mail, SQL Server Agent, database replication, restoration and backup.
-   <li>Deployment of software to client sites.
-   <li>Setting up Tomcat servers and card printer/encoders.
+   <li>Building and deploying updated software to client sites.
+   <li>Setting up Tomcat servers and card printers/encoders.
    <li>Amending base software products and updating in company git repository.
-   <li>Problem solving for different software products on client sites.
+   <li>Problem solving support issues for different software products on client sites.
 </ul>
 
 <b>Software Used:</b><br>
    <ul>
-      <li>Netbeans - Java
-      <li>Visual Studio Code - React (Javascript)
-      <li>SQL Server
-      <li>Fork - use with Git 
+      <li>Netbeans - Java - full stack and backend API calls to SQL database when using React front end
+      <li>Visual Studio Code - React (Javascript) - front end code
+      <li>SQL Server - Database
+      <li>Fork - used with Git to control software versions
+      <li>Postman - API testing
    </ul>
 
-<b>Self Employed</b> (May 2015 to Oct 2022)<br>   
+<b>Self Employed</b> (May 2015 to Oct 2022)<br>
+Building, developing and maintaining websites for clients.
    
 <b>AccessPay - Consultancy Division</b> (April 2014 - May 2015), UK<br>
 Project Management and Implementation - Payments solutions software<br>
