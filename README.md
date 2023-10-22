@@ -54,7 +54,7 @@ I always take great pride in my work and am meticulous in my attention to detail
 
 <b>IPS (Integrated Payment Solutions) - Software Development Department</b> (Nov 2022 - present), UK<br>
 Developer - Card and Access Control Systems (including printing and encoding of cards), Tills, Restaurant Ordering, Visitor Management, Active Directory, Data Integration (to connect to client MIS Systems), etc.<br>
-IPS has multiple clients with bespoke installations of their products running on Tomcat servers and using Java (full stack) and Javascript (React) front end/ Java back end and SQL Server databases.
+IPS has multiple clients with bespoke installations of their products running on Tomcat servers on the client's network. The programming languages used are Java (full stack), and Javascript (React) front end/ Java back end, with SQL Server databases.
 Access to client sites is via Teamviewer, Remote Desktop and VPN.<br><br> 
 <b>Main projects/achievements and tasks:</b><br> 
 <ul>
