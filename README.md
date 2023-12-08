@@ -30,7 +30,7 @@ I always take great pride in my work and am meticulous in my attention to detail
    <li>Testing: [Jest, Rspec, Jasmine]</li>
    <li>Web page: [HTML, CSS, JQuery]</li>
    <li>Databases: [SQL Server(SQL Server Management Studio), postgreSQL, MongoDB, mySQL]</li>
-   <li>Using thirdparty API's: [Youtube, etc.]</li>
+   <li>API's: Proprietary API's: [In house API's to handle database interactions],  Third Party API's: [Google, Youtube, Outlook, Weatherstack, Wikipedia, Unsplash, etc.]</li>
    <li>Other coding skills: [Regular expressions]</li>   
 </ul>
 <p>Not all experience has been listed above - see 'Education' below for more details.</p>
