@@ -7,8 +7,8 @@
    <a href="#coding-examples">Coding Examples </a>|
    <a href="#Interests"> Interests </a>| </h4>
 </div>
-I bring enthusiasm, passion and tenacious problem solving skills to the team. I love to learn new things and I am not afraid of hard work.<BR>    
-I'm looking for an inspiring Developer role (full stack) where I can continue to learn new things every day, in a development team creating innovative and helpful applications. Having spent a great deal of time learning Javascript, I feel that I am strongly positioned to step into a role that will utilise these skills. However, I will gladly learn any new language/library in addition to the ones I know. 
+I bring enthusiasm, passion and tenacious problem solving skills to the team. I love to learn new things and I work hard.<BR>    
+I'm looking for an inspiring Developer role (probably full stack but does not have to be) where I can continue to learn new things every day, in a development team creating innovative and helpful applications. Having spent a great deal of time learning Javascript, I feel that I am strongly positioned to step into a role that will utilise these skills. However, I will gladly learn any new language/library in addition to the ones I know. 
 
 <div id="skills"><h2><a href="#TOC">Skills</a></h2></div>
 I love to solve problems (I consider myself to be very good at it) and I love to learn new things and get to grips with new technologies. 
