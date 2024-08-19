@@ -10,7 +10,7 @@
 I bring enthusiasm, passion and tenacious problem solving skills to the team. I love to learn new things and I am continually looking to improve my skill set.<BR> 
 I am responsible, hard working and a good team player.<BR> 
 I'm looking for an inspiring Developer role (probably full stack but does not have to be) where I can continue to learn new things every day, in a development team creating innovative and helpful applications.<BR> 
-Having spent a great deal of time learning Javascript, I feel that I am strongly positioned to step into a role that will utilise these skills. However, I will gladly learn any new language/library in addition to the ones I know. 
+Having spent a great deal of time learning Javascript, I feel that I am strongly positioned to step into a role that will utilise these skills. However, I will gladly learn any new language/library in addition to the ones I know. My latest role has been Java oriented.
 
 <div id="skills"><h2><a href="#TOC">Skills</a></h2></div>
 I love to solve problems (I consider myself to be very good at it) and I love to learn new things and get to grips with new technologies. 
@@ -60,12 +60,18 @@ IPS has multiple clients with bespoke installations of their products running on
 Access to client sites is via Teamviewer, Remote Desktop and VPN.<br><br> 
 <b>Main projects/achievements and tasks:</b><br> 
 <ul>
+   <li> I have almost completed developing 2 Timetable Apps (full stack) that utilise the information contained within Tribal EBS (a major student information system). There are currently 2 separate apps: <br>* The first app is an mobile phone app that will read a student's swiped mifare access card (using the NFC ability on the mobile phone) and bring up the timetable details for that student showing current and next lesson location and times. The app also allows the student to view their timetable for any day of the academic year. Student safeguarding information is incorporated including emergency contact details which can be accessed from the student's access card. 
+<br>* The second app is set up on a raspberry pi device with an interactive screen and it will be located outside a classroom displaying the current and next lessons for that room. The client this is being build for will have approximately 300 of these. The room timetable will also be searchable for any day of the acedemic year.
+<br>Both Apps have been written in Java using the Springboot framework, Thymeleaf (template engine) using a SQL Server database. 
+I have designed and built these 2 apps entirely myself and I have also built dummy systems to demo these apps.
+<br>The android side is basically a shell for the main java program, passing the card number as read by the Android phone's NFC to the main Java program. The Android side was not developed by me.
    <li>Major changes (full stack) made to the Restaurant Ordering System SQL tables reflecting an improved way of storing bill items in the database. Additional features added to the software such as ability to create a restaurant tab, which can be converted to a restaurant table.  Cosmetic changes  also made to greatly improve the look of the product (html and css). The system has a React front end, Java API backend and a SQL database. Changes were also required for the amended restaurant app to integrate with the till app. All changes designed and built by me. 
    <li>Monitoring system set up to extract key data from client database systems using SQL Server Agent tasks and send it by mail as csv attachments to a dedicated mailbox. The data is then extracted and summarised on a dashboard webpage to highlight problems early. Built using the MS Outlook REST API, Javascript and nodejs. The whole system was designed and built by me from scratch.
    <li>Changes made to Visitor Management software (Java full stack) to make it easier for a visitor to use and improvements made to admin side of the software. Changes made to the checking in process to record more specific location. All changed identified, proposed and developed by me. 
    <li>Compiled extract files (based on client spec) of cash register transactions from the client's till transactions database and placed these in a network drive for the client's system to pick up and input to their own accounting system.
    <li>Extensive work with SQL Server databases including tables, queries, views, stored procedures, SQL Server mail, SQL Server Agent, database replication, restoration and backup.
    <li>Building and deploying updated software to client sites.
+   <li>Bulding power BI dashboards using the client financial information we hold in our databases and the information contained in Paxton Net2 (access card control systems provider).
    <li>Setting up Tomcat servers and card printers/encoders.
    <li>Amending base software products and updating in company git repository.
    <li>Problem solving support issues for different software products on client sites.
