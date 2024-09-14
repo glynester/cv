@@ -28,7 +28,7 @@ I always take great pride in my work and am meticulous in my attention to detail
    <li>App Deployment Platforms: [github.io, heroku]</li>
    <li>Version Control: [Git (Command line, github.com, GitHub desktop, Git bash, Sourcetree, Fork)]</li>
    <li>IDE's and editors: [Visual Studio Code, Atom, Sublime][Netbeans IDE][Eclipse IDE][Pycharm]</li>
-   <li>API testing: [Postman]</li>
+   <li>API testing: [Postman][Swagger-UI]</li>
    <li>Testing: [Jest, Rspec, Jasmine]</li>
    <li>Web page: [HTML, CSS, JQuery]</li>
    <li>Databases: [SQL Server(SQL Server Management Studio), postgreSQL, MongoDB, mySQL]</li>
@@ -110,7 +110,9 @@ I have a more detailed CV that covers the above roles.
 <div id="Education"><h2><a href="#TOC">Education</a></h2></div>
 Only education relevant to development has been included. I have done many courses that I have not listed here. <br>
 <br>
-<strong>Recent Courses</strong><br>
+<strong>Recent Courses</strong><br><br>
+
+<b>Power BI Dashboard - Altis Consulting</b> - Completed 28 Feb 2024 (1 day) <br>
 <br>   
 Learn <b>Python 3</b> - Completed 10 August 2022 (25 hrs - total course) <br>
 Course content - https://bit.ly/2ze7WpX <br>
