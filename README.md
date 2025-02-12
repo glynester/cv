@@ -11,7 +11,7 @@ I bring enthusiasm, passion and tenacious problem solving skills to the team. I 
 I am responsible, hard working and a good team player.<BR> 
 I'm looking for an inspiring Developer role (probably full stack but does not have to be) where I can continue to learn new things every day, in a development team creating innovative and helpful applications.<BR> 
 Having spent a great deal of time learning Javascript, I feel that I am strongly positioned to step into a role that will utilise these skills. However, I will gladly learn any new language/library in addition to the ones I know. My latest role has been Java oriented. <br>
-See my <a href="https://github.com/glynester/CV---short" target="_blank"> main CV </a> if you need more detail.
+See my <a href="https://github.com/glynester/CV---short" target="_blank"> abbreviated CV </a> if you need more detail.
 
 <div id="skills"><h2><a href="#TOC">Skills</a></h2></div>
 I love to solve problems (I consider myself to be very good at it) and I love to learn new things and get to grips with new technologies. 
